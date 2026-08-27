@@ -2,7 +2,7 @@
 
 Pinterest-ready thumbnail archive for AICo Creation Lab. This repository publishes lightweight WebP previews generated from local posted-original artwork folders, while full-resolution and commercial collection links point visitors to Patreon.
 
-[Official Hub](https://aico-creation-lab.musyokunoossan.chatgpt.site/) | [Patreon](https://www.patreon.com/cw/AICoCreationLab) | [Pinterest](https://jp.pinterest.com/mushoku_note_log/) | [note](https://note.com/mushoku_note_log)
+[Official Hub](https://aico-creation-lab.musyokunoossan.chatgpt.site/) | [Patreon](http://patreon.com/cw/AICoCreationLab) | [Pinterest](https://jp.pinterest.com/mushoku_note_log/) | [note](https://note.com/mushoku_note_log)
 
 ## Gallery Index
 

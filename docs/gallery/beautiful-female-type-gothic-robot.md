@@ -2,7 +2,7 @@
 
 Pinterest-ready thumbnail gallery for Beautiful female-type Gothic robot / 女型美麗ゴシックロボット. Each page includes a compact preview, searchable description, alt text, hashtags, and links to AICo Creation Lab and Patreon.
 
-[Official Hub](https://aico-creation-lab.musyokunoossan.chatgpt.site/) | [Patreon](https://www.patreon.com/cw/AICoCreationLab) | [Pinterest](https://jp.pinterest.com/mushoku_note_log/) | [note](https://note.com/mushoku_note_log)
+[Official Hub](https://aico-creation-lab.musyokunoossan.chatgpt.site/) | [Patreon](http://patreon.com/cw/AICoCreationLab) | [Pinterest](https://jp.pinterest.com/mushoku_note_log/) | [note](https://note.com/mushoku_note_log)
 
 ## Works
 
