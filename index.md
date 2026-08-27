@@ -4,6 +4,8 @@ title: AICo Creation Lab Pinterest Gallery
 description: Pinterest-ready AI art thumbnail gallery with links to AICo Creation Lab and Patreon.
 ---
 
+<meta name="p:domain_verify" content="2c559efec5eeff64e3ede38a89ab003a"/>
+
 # AICo Creation Lab Pinterest Gallery
 
 Pinterest-ready thumbnail archive for AICo Creation Lab. This site publishes lightweight preview images and searchable artwork pages for GitHub, Pinterest, and Patreon discovery.
