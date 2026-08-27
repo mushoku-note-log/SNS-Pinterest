@@ -1,0 +1,21 @@
+# 2.5D着物女性イラスト AI Art Preview 006
+
+![2.5D着物女性イラスト AI Art Preview 006 - 2.5D illustration of a woman in a kimono thumbnail](../../../images/thumbnails/2-5d-illustration-of-a-woman-in-a-kimono/2-5d-ai-art-preview-006-37056cd125.webp)
+
+2.5D着物女性イラスト AI Art Preview 006は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは2.5D着物女性イラスト / 2.5D illustration of a woman in a kimono。Pinterest、GitHub、Patreonをつなぐ導線として、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt #KimonoArt #JapaneseFashion
+
+## Artwork Metadata
+
+- Genre: 2.5D illustration of a woman in a kimono / 2.5D着物女性イラスト
+- Preview size: 274 x 480px
+- Original archive size: 768 x 1344px
+- Source status: posted original archive
+- Full-resolution direction: Patreon collection
+
+## Links
+
+[Official Hub](https://aico-creation-lab.musyokunoossan.chatgpt.site/) | [Patreon](https://www.patreon.com/cw/AICoCreationLab) | [Pinterest](https://jp.pinterest.com/mushoku_note_log/) | [note](https://note.com/mushoku_note_log)
+
+## Hashtags
+
+#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt #KimonoArt #JapaneseFashion

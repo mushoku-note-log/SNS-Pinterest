@@ -1,0 +1,5 @@
+title: AICo Creation Lab Pinterest Gallery
+description: Pinterest-ready AI art thumbnail gallery with links to AICo Creation Lab and Patreon.
+theme: minima
+plugins:
+  - jekyll-sitemap
