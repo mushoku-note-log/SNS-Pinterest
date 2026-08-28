@@ -9,7 +9,7 @@ Pinterest-ready thumbnail archive for AICo Creation Lab. This repository publish
 - [2.5D illustration of a woman in a kimono / 2.5D着物女性イラスト](gallery/2-5d-illustration-of-a-woman-in-a-kimono.md) - 64 thumbnails
 - [3D Watercolor – Noble Pastel / 立体水彩・ノーブルパステル](gallery/3d-watercolor-noble-pastel.md) - 137 thumbnails
 - [Bamboo Lanterns with Openwork Carving / 竹灯り・透かし彫りアート](gallery/bamboo-lanterns-with-openwork-carving.md) - 41 thumbnails
-- [Beautiful 2.5D art / 2.5D美麗アート](gallery/beautiful-2-5d-art.md) - 55 thumbnails
+- [Beautiful 2.5D art / 2.5D美麗アート](gallery/beautiful-2-5d-art.md) - 80 thumbnails
 - [Beautiful female-type Gothic robot / 女型美麗ゴシックロボット](gallery/beautiful-female-type-gothic-robot.md) - 81 thumbnails
 - [Beautiful illustration / 美麗イラスト](gallery/beautiful-illustration.md) - 215 thumbnails
 - [Beautiful Japan / 美麗日本](gallery/beautiful-japan.md) - 50 thumbnails
