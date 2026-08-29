@@ -2,7 +2,7 @@
 
 ![着物女性フラットイラスト AI Art Preview 028 - Flat illustration of a woman in a kimono thumbnail](../../../images/thumbnails/flat-illustration-of-a-woman-in-a-kimono/ai-art-preview-028-d5ec6239f7.webp)
 
-着物女性フラットイラスト AI Art Preview 028は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは着物女性フラットイラスト / Flat illustration of a woman in a kimono。GitHub Pages上の検索向けプレビューとして、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #KimonoArt #JapaneseFashion
+This is a lightweight preview from a free stock AI art collection without the Birei logo. Commercial use is allowed, but reselling the unmodified material itself is prohibited. / 美麗ロゴなしのフリーAI素材集から作成した軽量プレビューです。商用利用可。ただし、素材そのままで改変を行っていない素材そのものの二次販売は禁止です。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #KimonoArt #JapaneseFashion
 
 ## Artwork Metadata
 
@@ -10,11 +10,11 @@
 - Preview size: 274 x 480px
 - Original archive size: 768 x 1344px
 - Source status: posted original archive
-- Full-resolution direction: Patreon collection
+- Usage: Commercial use allowed; resale of the unmodified material itself is prohibited. / 商用利用可。未改変素材そのものの二次販売は禁止。
 
 ## Links
 
-[トップギャラリー](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
+[Top Gallery / トップギャラリー](https://mushoku-note-log.github.io/) | [View free stock collection on Patreon / Patreonでフリー素材集を見る](https://www.patreon.com/cw/AICoCreationLab)
 
 ## Hashtags
 

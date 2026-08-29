@@ -2,7 +2,7 @@
 
 ![2.5D着物女性イラスト AI Art Preview 017 - 2.5D illustration of a woman in a kimono thumbnail](../../../images/thumbnails/2-5d-illustration-of-a-woman-in-a-kimono/2-5d-ai-art-preview-017-f7fc576e90.webp)
 
-2.5D着物女性イラスト AI Art Preview 017は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは2.5D着物女性イラスト / 2.5D illustration of a woman in a kimono。GitHub Pages上の検索向けプレビューとして、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #KimonoArt #JapaneseFashion
+This is a lightweight preview from a free stock AI art collection without the Birei logo. Commercial use is allowed, but reselling the unmodified material itself is prohibited. / 美麗ロゴなしのフリーAI素材集から作成した軽量プレビューです。商用利用可。ただし、素材そのままで改変を行っていない素材そのものの二次販売は禁止です。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #KimonoArt #JapaneseFashion
 
 ## Artwork Metadata
 
@@ -10,11 +10,11 @@
 - Preview size: 274 x 480px
 - Original archive size: 768 x 1344px
 - Source status: posted original archive
-- Full-resolution direction: Patreon collection
+- Usage: Commercial use allowed; resale of the unmodified material itself is prohibited. / 商用利用可。未改変素材そのものの二次販売は禁止。
 
 ## Links
 
-[トップギャラリー](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
+[Top Gallery / トップギャラリー](https://mushoku-note-log.github.io/) | [View free stock collection on Patreon / Patreonでフリー素材集を見る](https://www.patreon.com/cw/AICoCreationLab)
 
 ## Hashtags
 
