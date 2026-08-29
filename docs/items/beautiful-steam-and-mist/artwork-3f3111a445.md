@@ -2,20 +2,20 @@
 
 ![猫ミスト - Beautiful Steam and Mist thumbnail](../../../images/thumbnails/beautiful-steam-and-mist/artwork-3f3111a445.webp)
 
-猫ミストは、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは美麗 蒸気・煙霧 / Beautiful Steam and Mist。Pinterest、GitHub、Patreonをつなぐ導線として、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt
+猫ミストは、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは美麗 蒸気・煙霧 / Beautiful Steam and Mist。GitHub Pages上の検索向けプレビューとして、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery
 
 ## Artwork Metadata
 
 - Genre: Beautiful Steam and Mist / 美麗 蒸気・煙霧
-- Preview size: 480 x 270px
+- Preview size: 384 x 480px
 - Original archive size: 1122 x 1402px
 - Source status: posted original archive
 - Full-resolution direction: Patreon collection
 
 ## Links
 
-[Official Hub](https://aico-creation-lab.musyokunoossan.chatgpt.site/) | [Patreon](http://patreon.com/cw/AICoCreationLab) | [Pinterest](https://jp.pinterest.com/mushoku_note_log/) | [note](https://note.com/mushoku_note_log)
+[トップギャラリー](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
 
 ## Hashtags
 
-#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt
+#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery

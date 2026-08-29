@@ -2,7 +2,7 @@
 
 ![蒼穹の決戦、鋼の英雄 - Stunning Gothic Robot thumbnail](../../../images/thumbnails/stunning-gothic-robot/artwork-0d8b6d15b0.webp)
 
-蒼穹の決戦、鋼の英雄は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは美麗ゴシックロボット / Stunning Gothic Robot。Pinterest、GitHub、Patreonをつなぐ導線として、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt #RobotArt #MechaArt #GothicArt
+蒼穹の決戦、鋼の英雄は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは美麗ゴシックロボット / Stunning Gothic Robot。GitHub Pages上の検索向けプレビューとして、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #RobotArt #MechaArt #GothicArt
 
 ## Artwork Metadata
 
@@ -14,8 +14,8 @@
 
 ## Links
 
-[Official Hub](https://aico-creation-lab.musyokunoossan.chatgpt.site/) | [Patreon](http://patreon.com/cw/AICoCreationLab) | [Pinterest](https://jp.pinterest.com/mushoku_note_log/) | [note](https://note.com/mushoku_note_log)
+[トップギャラリー](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
 
 ## Hashtags
 
-#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt #RobotArt #MechaArt #GothicArt
+#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #RobotArt #MechaArt #GothicArt

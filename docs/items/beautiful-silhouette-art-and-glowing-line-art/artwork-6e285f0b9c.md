@@ -2,7 +2,7 @@
 
 ![金色に輝く大樹の巫女と神域 - Beautiful Silhouette Art & Glowing Line Art thumbnail](../../../images/thumbnails/beautiful-silhouette-art-and-glowing-line-art/artwork-6e285f0b9c.webp)
 
-金色に輝く大樹の巫女と神域は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは美麗影絵・発光ラインアート / Beautiful Silhouette Art & Glowing Line Art。Pinterest、GitHub、Patreonをつなぐ導線として、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt #SilhouetteArt #LineArt
+金色に輝く大樹の巫女と神域は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは美麗影絵・発光ラインアート / Beautiful Silhouette Art & Glowing Line Art。GitHub Pages上の検索向けプレビューとして、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #SilhouetteArt #LineArt
 
 ## Artwork Metadata
 
@@ -14,8 +14,8 @@
 
 ## Links
 
-[Official Hub](https://aico-creation-lab.musyokunoossan.chatgpt.site/) | [Patreon](http://patreon.com/cw/AICoCreationLab) | [Pinterest](https://jp.pinterest.com/mushoku_note_log/) | [note](https://note.com/mushoku_note_log)
+[トップギャラリー](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
 
 ## Hashtags
 
-#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt #SilhouetteArt #LineArt
+#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #SilhouetteArt #LineArt

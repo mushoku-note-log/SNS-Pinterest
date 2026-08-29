@@ -1,7 +1,7 @@
 {
   "source_root": "D:\\AI共創ラボ\\illustration",
   "total_images": 1921,
-  "total_thumbnail_bytes": 66615604,
+  "total_thumbnail_bytes": 70851456,
   "thumbnail_max_size": [
     480,
     480
@@ -33,7 +33,5 @@
     "Youth romantic comedy manga / 青春ラブコメ漫画": 50,
     "science manga / サイエンス漫画": 36
   },
-  "official_url": "https://aico-creation-lab.musyokunoossan.chatgpt.site/",
-  "patreon_url": "http://patreon.com/cw/AICoCreationLab",
-  "pinterest_url": "https://jp.pinterest.com/mushoku_note_log/"
+  "patreon_url": "https://www.patreon.com/cw/AICoCreationLab"
 }

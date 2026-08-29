@@ -2,7 +2,7 @@
 
 ![錦秋の盆栽庭園 - Bonsai Wabisabi thumbnail](../../../images/thumbnails/bonsai-wabisabi/artwork-122b6aef46.webp)
 
-錦秋の盆栽庭園は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは盆栽・侘寂 / Bonsai Wabisabi。Pinterest、GitHub、Patreonをつなぐ導線として、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt
+錦秋の盆栽庭園は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは盆栽・侘寂 / Bonsai Wabisabi。GitHub Pages上の検索向けプレビューとして、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery
 
 ## Artwork Metadata
 
@@ -14,8 +14,8 @@
 
 ## Links
 
-[Official Hub](https://aico-creation-lab.musyokunoossan.chatgpt.site/) | [Patreon](http://patreon.com/cw/AICoCreationLab) | [Pinterest](https://jp.pinterest.com/mushoku_note_log/) | [note](https://note.com/mushoku_note_log)
+[トップギャラリー](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
 
 ## Hashtags
 
-#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt
+#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery

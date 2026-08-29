@@ -1,8 +1,8 @@
 # Cat Manga / 猫漫画
 
-Pinterest-ready thumbnail gallery for Cat Manga / 猫漫画. Each page includes a compact preview, searchable description, alt text, hashtags, and links to AICo Creation Lab and Patreon.
+Search-ready thumbnail gallery for Cat Manga / 猫漫画. Each page includes a compact preview, searchable description, alt text, hashtags, and a Patreon collection link.
 
-[Official Hub](https://aico-creation-lab.musyokunoossan.chatgpt.site/) | [Patreon](http://patreon.com/cw/AICoCreationLab) | [Pinterest](https://jp.pinterest.com/mushoku_note_log/) | [note](https://note.com/mushoku_note_log)
+[トップギャラリー](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
 
 ## Works
 

@@ -2,7 +2,7 @@
 
 ![薔薇咲く幻想庭園の貴婦人 - 3D Watercolor – Noble Pastel thumbnail](../../../images/thumbnails/3d-watercolor-noble-pastel/artwork-a111d50a25.webp)
 
-薔薇咲く幻想庭園の貴婦人は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは立体水彩・ノーブルパステル / 3D Watercolor – Noble Pastel。Pinterest、GitHub、Patreonをつなぐ導線として、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt #WatercolorArt #PastelArt #3DArt #LiquidArt
+薔薇咲く幻想庭園の貴婦人は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは立体水彩・ノーブルパステル / 3D Watercolor – Noble Pastel。GitHub Pages上の検索向けプレビューとして、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #WatercolorArt #PastelArt #3DArt #LiquidArt
 
 ## Artwork Metadata
 
@@ -14,8 +14,8 @@
 
 ## Links
 
-[Official Hub](https://aico-creation-lab.musyokunoossan.chatgpt.site/) | [Patreon](http://patreon.com/cw/AICoCreationLab) | [Pinterest](https://jp.pinterest.com/mushoku_note_log/) | [note](https://note.com/mushoku_note_log)
+[トップギャラリー](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
 
 ## Hashtags
 
-#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt #WatercolorArt #PastelArt #3DArt #LiquidArt
+#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #WatercolorArt #PastelArt #3DArt #LiquidArt

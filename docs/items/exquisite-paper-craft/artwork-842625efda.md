@@ -2,7 +2,7 @@
 
 ![和紙灯籠が彩る幻想夜宴 - Exquisite Paper Craft thumbnail](../../../images/thumbnails/exquisite-paper-craft/artwork-842625efda.webp)
 
-和紙灯籠が彩る幻想夜宴は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは美麗紙工芸 / Exquisite Paper Craft。Pinterest、GitHub、Patreonをつなぐ導線として、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt #PaperCraft #CraftArt
+和紙灯籠が彩る幻想夜宴は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは美麗紙工芸 / Exquisite Paper Craft。GitHub Pages上の検索向けプレビューとして、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #PaperCraft #CraftArt
 
 ## Artwork Metadata
 
@@ -14,8 +14,8 @@
 
 ## Links
 
-[Official Hub](https://aico-creation-lab.musyokunoossan.chatgpt.site/) | [Patreon](http://patreon.com/cw/AICoCreationLab) | [Pinterest](https://jp.pinterest.com/mushoku_note_log/) | [note](https://note.com/mushoku_note_log)
+[トップギャラリー](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
 
 ## Hashtags
 
-#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt #PaperCraft #CraftArt
+#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #PaperCraft #CraftArt

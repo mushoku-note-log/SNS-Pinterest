@@ -1,8 +1,8 @@
-# AICo Creation Lab Pinterest Thumbnail Gallery
+# AICo Creation Lab AI Art Gallery
 
-Pinterest-ready thumbnail archive for AICo Creation Lab. This repository publishes lightweight WebP previews generated from local posted-original artwork folders, while full-resolution and commercial collection links point visitors to Patreon.
+Search-ready AI art thumbnail archive for AICo Creation Lab. This repository publishes lightweight WebP previews generated from local posted-original artwork folders, while full-resolution and commercial collection links point visitors to Patreon.
 
-[Official Hub](https://aico-creation-lab.musyokunoossan.chatgpt.site/) | [Patreon](http://patreon.com/cw/AICoCreationLab) | [Pinterest](https://jp.pinterest.com/mushoku_note_log/) | [note](https://note.com/mushoku_note_log)
+[トップギャラリー](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
 
 ## Gallery Index
 
@@ -31,10 +31,10 @@ Pinterest-ready thumbnail archive for AICo Creation Lab. This repository publish
 - [science manga / サイエンス漫画](gallery/science-manga.md) - 36 thumbnails
 - [Youth romantic comedy manga / 青春ラブコメ漫画](gallery/youth-romantic-comedy-manga.md) - 50 thumbnails
 
-## Pinterest Posting Data
+## Publishing Data
 
-- [Pinterest post CSV](../data/pinterest-posts.csv)
-- [Pinterest post JSON](../data/pinterest-posts.json)
+- [Post CSV](../data/pinterest-posts.csv)
+- [Post JSON](../data/pinterest-posts.json)
 
 ## Publishing Notes
 

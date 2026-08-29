@@ -2,7 +2,7 @@
 
 ![刺繍で描く月夜の江戸風景 - Exquisite embroidery thumbnail](../../../images/thumbnails/exquisite-embroidery/artwork-ae0647df1f.webp)
 
-刺繍で描く月夜の江戸風景は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは美麗刺繍 / Exquisite embroidery。Pinterest、GitHub、Patreonをつなぐ導線として、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt #EmbroideryArt #TextileArt
+刺繍で描く月夜の江戸風景は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは美麗刺繍 / Exquisite embroidery。GitHub Pages上の検索向けプレビューとして、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #EmbroideryArt #TextileArt
 
 ## Artwork Metadata
 
@@ -14,8 +14,8 @@
 
 ## Links
 
-[Official Hub](https://aico-creation-lab.musyokunoossan.chatgpt.site/) | [Patreon](http://patreon.com/cw/AICoCreationLab) | [Pinterest](https://jp.pinterest.com/mushoku_note_log/) | [note](https://note.com/mushoku_note_log)
+[トップギャラリー](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
 
 ## Hashtags
 
-#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt #EmbroideryArt #TextileArt
+#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #EmbroideryArt #TextileArt

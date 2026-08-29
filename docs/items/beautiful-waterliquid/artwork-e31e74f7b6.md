@@ -2,7 +2,7 @@
 
 ![星雫の水精姫 ― 黄昏に輝く天空宮殿 - Beautiful waterliquid thumbnail](../../../images/thumbnails/beautiful-waterliquid/artwork-e31e74f7b6.webp)
 
-星雫の水精姫 ― 黄昏に輝く天空宮殿は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは美麗 水・液体 / Beautiful waterliquid。Pinterest、GitHub、Patreonをつなぐ導線として、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt #LiquidArt
+星雫の水精姫 ― 黄昏に輝く天空宮殿は、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは美麗 水・液体 / Beautiful waterliquid。GitHub Pages上の検索向けプレビューとして、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #LiquidArt
 
 ## Artwork Metadata
 
@@ -14,8 +14,8 @@
 
 ## Links
 
-[Official Hub](https://aico-creation-lab.musyokunoossan.chatgpt.site/) | [Patreon](http://patreon.com/cw/AICoCreationLab) | [Pinterest](https://jp.pinterest.com/mushoku_note_log/) | [note](https://note.com/mushoku_note_log)
+[トップギャラリー](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
 
 ## Hashtags
 
-#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #PinterestArt #LiquidArt
+#AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #LiquidArt
