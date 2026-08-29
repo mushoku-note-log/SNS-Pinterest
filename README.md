@@ -2,7 +2,7 @@
 
 Search-ready AI art thumbnail archive for AICo Creation Lab. This repository publishes lightweight WebP previews generated from local posted-original artwork folders, while full-resolution and commercial collection links point visitors to Patreon.
 
-[トップギャラリー](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
+[Top Gallery / トップギャラリー](https://mushoku-note-log.github.io/) | [View on Patreon / Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
 
 ## Gallery Index
 
@@ -41,4 +41,5 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - Source scope: `D:\AI共創ラボ\illustration\<genre>\投稿済み原画\`
 - Excluded: genre-root unposted images and `upscayl_png_upscayl-standard-4x_2x`
 - Thumbnail format: WebP, max 480 x 480px
+- Display note: Images that do not fill the 16:9 frame are portrait-ratio originals. Currently, most new images are created in 16:9 except manga pages, which use an A4-style layout. / 枠内に収まっていない画像は縦長比率の画像です。現在、漫画（A4）以外では16:9の画像をメインに作っています。
 - Full-resolution sales direction: Patreon
