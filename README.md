@@ -23,7 +23,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Exquisite Plush Toy / 美麗ぬいぐるみ](docs/gallery/exquisite-plush-toy.md) - 78 thumbnails
 - [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](docs/gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 65 free stock thumbnails, commercial use allowed
 - [Japanese-style illustration / 和風美麗イラスト](docs/gallery/japanese-style-illustration.md) - 108 thumbnails
-- [Japanese Scenery / 日本の景色](docs/gallery/japanese-scenery.md) - 110 free stock thumbnails, commercial use allowed
+- [Japanese Scenery / 日本の景色](docs/gallery/japanese-scenery.md) - 160 free stock thumbnails, commercial use allowed
 - [Japanese women and the scenery / 日本女性と景色](docs/gallery/japanese-women-and-the-scenery.md) - 95 free stock thumbnails, commercial use allowed
 - [Nishikigoi Exquisite Art / 錦鯉 美麗アート](docs/gallery/nishikigoi-exquisite-art.md) - 25 thumbnails
 - [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](docs/gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 208 thumbnails
@@ -43,5 +43,5 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - Excluded: genre-root unposted images and `upscayl_png_upscayl-standard-4x_2x`
 - Thumbnail format: WebP, max 480 x 480px
 - Display note: Images that do not fill the 16:9 frame are portrait-ratio originals. Currently, most new images are created in 16:9 except manga pages, which use an A4-style layout. / 枠内に収まっていない画像は縦長比率の画像です。現在、漫画（A4）以外では16:9の画像をメインに作っています。
-- Free stock usage: Japanese Scenery, Japanese women and the scenery, Flat illustration of a woman in a kimono, and 2.5D illustration of a woman in a kimono are logo-free stock material collections. Commercial use is allowed, but resale of the unmodified material itself is prohibited. / 日本の景色、日本女性と景色、着物女性フラットイラスト、2.5D着物女性イラストは美麗ロゴなしのフリー素材集です。商用利用可。ただし、未改変素材そのものの二次販売は禁止です。
+- Free stock note: Japanese Scenery, Japanese women and the scenery, Flat illustration of a woman in a kimono, and 2.5D illustration of a woman in a kimono are logo-free free AI material collections. Commercial use is allowed. Edited derivative use is allowed. Resale, redistribution, re-uploading, stock/NFT/POD registration, claiming authorship, AI training, and dataset redistribution of the unmodified material itself are prohibited. / 日本の景色、日本女性と景色、着物女性フラットイラスト、2.5D着物女性イラストは美麗ロゴなしのフリーAI素材集です。商用利用可。加工・編集した制作物への利用も可能です。ただし、素材そのまま、または実質的に未改変のままの転売、再配布、無断アップロード、ストック素材・NFT・POD登録、自作発言、AI学習素材やデータセットとしての再配布は禁止します。
 - Full-resolution sales direction: Patreon

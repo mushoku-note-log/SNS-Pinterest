@@ -2,14 +2,14 @@
 
 ![雪の温泉と湯けむり - Japanese Scenery thumbnail](../../../images/thumbnails/japanese-scenery/artwork-85882e5eb3.webp)
 
-雪の温泉と湯けむり - This is a lightweight preview from a logo-free Japanese scenery stock AI art collection. Commercial use is allowed, but reselling the unmodified material itself is prohibited. / 美麗ロゴなしの日本景色フリーAI素材集から作成した軽量プレビューです。商用利用可。ただし、素材そのままで改変を行っていない素材そのものの二次販売は禁止です。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #JapaneseScenery #LandscapeArt #JapanIllustration #FreeStock #CommercialUse
+雪の温泉と湯けむり - This preview is from the Japanese scenery and school-life background collection. Logo-free free AI material collection. Commercial use is allowed. Edited derivative use is allowed. Reselling, redistributing, re-uploading, stock/NFT/POD registration, claiming authorship, AI training, or dataset redistribution of the unmodified material itself is prohibited. / 日本の景色・学生生活背景コレクションのプレビューです。美麗ロゴなしのフリーAI素材集です。商用利用可。加工・編集した制作物への利用も可能です。ただし、素材そのまま、または実質的に未改変のままの転売、再配布、無断アップロード、ストック素材・NFT・POD登録、自作発言、AI学習素材やデータセットとしての再配布は禁止します。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #JapaneseScenery #LandscapeArt #JapanIllustration #FreeStock #CommercialUse
 
 ## Artwork Metadata
 
 - Genre: Japanese Scenery / 日本の景色
 - Preview size: 480 x 270px
 - Original archive size: 2048 x 1152px
-- Usage: Commercial use is allowed, but reselling the unmodified material itself is prohibited. / 商用利用可。未改変素材そのものの二次販売は禁止。
+- Usage: Logo-free free AI material. Commercial use allowed; unmodified material resale, redistribution, AI training, and dataset redistribution prohibited. / 美麗ロゴなしのフリーAI素材。商用利用可。未改変素材そのものの転売、再配布、AI学習素材化、データセット再配布は禁止。
 
 ## Links
 
