@@ -7,7 +7,7 @@
 ## Artwork Metadata
 
 - Genre: Beautiful illustration / 美麗イラスト
-- Preview size: 319 x 480px
+- Preview size: 480 x 270px
 - Original archive size: 1023 x 1537px
 - Source status: posted original archive
 - Full-resolution direction: Patreon collection

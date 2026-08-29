@@ -7,7 +7,7 @@
 ## Artwork Metadata
 
 - Genre: Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア
-- Preview size: 480 x 480px
+- Preview size: 480 x 270px
 - Original archive size: 1254 x 1254px
 - Source status: posted original archive
 - Full-resolution direction: Patreon collection

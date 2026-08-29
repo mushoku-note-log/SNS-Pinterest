@@ -7,7 +7,7 @@
 ## Artwork Metadata
 
 - Genre: Exquisite embroidery / 美麗刺繍
-- Preview size: 480 x 384px
+- Preview size: 480 x 270px
 - Original archive size: 1402 x 1122px
 - Source status: posted original archive
 - Full-resolution direction: Patreon collection

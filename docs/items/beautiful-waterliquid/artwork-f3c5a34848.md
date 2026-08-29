@@ -7,7 +7,7 @@
 ## Artwork Metadata
 
 - Genre: Beautiful waterliquid / 美麗 水・液体
-- Preview size: 480 x 320px
+- Preview size: 480 x 270px
 - Original archive size: 1536 x 1024px
 - Source status: posted original archive
 - Full-resolution direction: Patreon collection

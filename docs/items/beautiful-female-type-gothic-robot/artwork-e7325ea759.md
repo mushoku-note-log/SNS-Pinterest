@@ -7,7 +7,7 @@
 ## Artwork Metadata
 
 - Genre: Beautiful female-type Gothic robot / 女型美麗ゴシックロボット
-- Preview size: 360 x 480px
+- Preview size: 480 x 270px
 - Original archive size: 2688 x 3584px
 - Source status: posted original archive
 - Full-resolution direction: Patreon collection

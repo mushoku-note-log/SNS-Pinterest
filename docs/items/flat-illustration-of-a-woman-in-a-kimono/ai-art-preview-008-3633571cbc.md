@@ -7,7 +7,7 @@
 ## Artwork Metadata
 
 - Genre: Flat illustration of a woman in a kimono / 着物女性フラットイラスト
-- Preview size: 274 x 480px
+- Preview size: 480 x 270px
 - Original archive size: 768 x 1344px
 - Source status: posted original archive
 - Full-resolution direction: Patreon collection

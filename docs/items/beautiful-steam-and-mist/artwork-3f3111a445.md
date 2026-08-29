@@ -7,7 +7,7 @@
 ## Artwork Metadata
 
 - Genre: Beautiful Steam and Mist / 美麗 蒸気・煙霧
-- Preview size: 384 x 480px
+- Preview size: 480 x 270px
 - Original archive size: 1122 x 1402px
 - Source status: posted original archive
 - Full-resolution direction: Patreon collection

@@ -7,7 +7,7 @@
 ## Artwork Metadata
 
 - Genre: Youth romantic comedy manga / 青春ラブコメ漫画
-- Preview size: 339 x 480px
+- Preview size: 320 x 480px
 - Original archive size: 1054 x 1492px
 - Source status: posted original archive
 - Full-resolution direction: Patreon collection

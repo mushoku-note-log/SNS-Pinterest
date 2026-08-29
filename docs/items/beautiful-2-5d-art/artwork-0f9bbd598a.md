@@ -7,7 +7,7 @@
 ## Artwork Metadata
 
 - Genre: Beautiful 2.5D art / 2.5D美麗アート
-- Preview size: 270 x 480px
+- Preview size: 480 x 270px
 - Original archive size: 941 x 1672px
 - Source status: posted original archive
 - Full-resolution direction: Patreon collection

@@ -7,7 +7,7 @@
 ## Artwork Metadata
 
 - Genre: Exquisite Plush Toy / 美麗ぬいぐるみ
-- Preview size: 320 x 480px
+- Preview size: 480 x 270px
 - Original archive size: 1024 x 1536px
 - Source status: posted original archive
 - Full-resolution direction: Patreon collection

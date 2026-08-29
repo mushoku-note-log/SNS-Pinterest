@@ -7,7 +7,7 @@ ef43bbc3-44c7-4fe8-8338-92fde55bbc8d_upscayl_2x_upscayl-standard-4xは、AICo Cr
 ## Artwork Metadata
 
 - Genre: Beautiful illustration / 美麗イラスト
-- Preview size: 274 x 480px
+- Preview size: 480 x 270px
 - Original archive size: 1896 x 3318px
 - Source status: posted original archive
 - Full-resolution direction: Patreon collection

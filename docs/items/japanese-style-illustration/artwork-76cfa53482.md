@@ -7,7 +7,7 @@
 ## Artwork Metadata
 
 - Genre: Japanese-style illustration / 和風美麗イラスト
-- Preview size: 480 x 252px
+- Preview size: 480 x 270px
 - Original archive size: 1732 x 908px
 - Source status: posted original archive
 - Full-resolution direction: Patreon collection

@@ -7,7 +7,7 @@
 ## Artwork Metadata
 
 - Genre: Stunning Gothic Robot / 美麗ゴシックロボット
-- Preview size: 480 x 320px
+- Preview size: 480 x 270px
 - Original archive size: 1536 x 1024px
 - Source status: posted original archive
 - Full-resolution direction: Patreon collection

@@ -7,7 +7,7 @@
 ## Artwork Metadata
 
 - Genre: 3D Watercolor – Noble Pastel / 立体水彩・ノーブルパステル
-- Preview size: 274 x 480px
+- Preview size: 480 x 270px
 - Original archive size: 947 x 1660px
 - Source status: posted original archive
 - Full-resolution direction: Patreon collection

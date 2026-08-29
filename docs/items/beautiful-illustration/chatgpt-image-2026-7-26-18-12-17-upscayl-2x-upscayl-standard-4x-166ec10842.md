@@ -7,7 +7,7 @@ ChatGPT Image 2026年7月26日 18_12_17_upscayl_2x_upscayl-standard-4xは、AICo
 ## Artwork Metadata
 
 - Genre: Beautiful illustration / 美麗イラスト
-- Preview size: 270 x 480px
+- Preview size: 480 x 270px
 - Original archive size: 1882 x 3344px
 - Source status: posted original archive
 - Full-resolution direction: Patreon collection
