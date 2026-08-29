@@ -23,6 +23,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Exquisite Plush Toy / 美麗ぬいぐるみ](gallery/exquisite-plush-toy.md) - 78 thumbnails
 - [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 65 thumbnails
 - [Japanese-style illustration / 和風美麗イラスト](gallery/japanese-style-illustration.md) - 108 thumbnails
+- [Japanese Scenery / 日本の景色](gallery/japanese-scenery.md) - 110 free stock thumbnails, commercial use allowed
 - [Japanese women and the scenery / 日本女性と景色](gallery/japanese-women-and-the-scenery.md) - 95 thumbnails
 - [Nishikigoi Exquisite Art / 錦鯉 美麗アート](gallery/nishikigoi-exquisite-art.md) - 25 thumbnails
 - [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 208 thumbnails
@@ -38,7 +39,9 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 
 ## Publishing Notes
 
-- Source scope: `D:\AI共創ラボ\illustration\<genre>\投稿済み原画\`
+- Source scope: `D:\AI共創ラボ\illustration\<genre>\投稿済み原画\`; Japanese Scenery uses `D:\AI共創ラボ\illustration\Japanese Scenery  日本の景色\投稿済み\`
 - Excluded: genre-root unposted images and `upscayl_png_upscayl-standard-4x_2x`
 - Thumbnail format: WebP, max 480 x 480px
+- Display note: Images that do not fill the 16:9 frame are portrait-ratio originals. Currently, most new images are created in 16:9 except manga pages, which use an A4-style layout. / 枠内に収まっていない画像は縦長比率の画像です。現在、漫画（A4）以外では16:9の画像をメインに作っています。
+- Free stock usage: Japanese Scenery, Japanese women and the scenery, Flat illustration of a woman in a kimono, and 2.5D illustration of a woman in a kimono are logo-free stock material collections. Commercial use is allowed, but resale of the unmodified material itself is prohibited. / 日本の景色、日本女性と景色、着物女性フラットイラスト、2.5D着物女性イラストは美麗ロゴなしのフリー素材集です。商用利用可。ただし、未改変素材そのものの二次販売は禁止です。
 - Full-resolution sales direction: Patreon
