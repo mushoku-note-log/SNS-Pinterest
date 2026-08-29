@@ -16,8 +16,9 @@
     .cta { background: #b01942; border-color: #b01942; color: #fff; }
     .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 18px; }
     .card { display: block; overflow: hidden; border: 1px solid #ddd6ca; border-radius: 8px; background: #fff; color: inherit; text-decoration: none; }
-    .card img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block; background: #eee8dd; }
-    .card span { display: block; padding: 10px; font-size: 13px; color: #333b45; }
+    .thumb-frame { display: block; aspect-ratio: 16 / 9; overflow: hidden; background: #eee8dd; }
+    .card img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .card > span:not(.thumb-frame) { display: block; padding: 10px; font-size: 13px; color: #333b45; }
   </style>
 </head>
 <body>
@@ -33,143 +34,143 @@
   <main>
     <section class="grid" aria-label="Artwork previews">
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-9a5c70f83f.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-9a5c70f83f.webp?v=wide-20260829" alt="美麗な藤香る和紙庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-9a5c70f83f.webp?v=wide-20260829" alt="美麗な藤香る和紙庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>美麗な藤香る和紙庭園</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-a32697f543.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-a32697f543.webp?v=wide-20260829" alt="幻想和紙切り絵の山寺風景 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-a32697f543.webp?v=wide-20260829" alt="幻想和紙切り絵の山寺風景 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>幻想和紙切り絵の山寺風景</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-1cb96ed096.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-1cb96ed096.webp?v=wide-20260829" alt="灯り流れる宵の雅祭 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-1cb96ed096.webp?v=wide-20260829" alt="灯り流れる宵の雅祭 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>灯り流れる宵の雅祭</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-e1084a8ab5.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-e1084a8ab5.webp?v=wide-20260829" alt="桜舞う紙細工の春都 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-e1084a8ab5.webp?v=wide-20260829" alt="桜舞う紙細工の春都 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>桜舞う紙細工の春都</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-c6a1f1fc92.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-c6a1f1fc92.webp?v=wide-20260829" alt="紙彩りの里と夕映えの海 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-c6a1f1fc92.webp?v=wide-20260829" alt="紙彩りの里と夕映えの海 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>紙彩りの里と夕映えの海</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-8de6f149e1.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-8de6f149e1.webp?v=wide-20260829" alt="紅葉舞う和紙クラフト渓谷の社 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-8de6f149e1.webp?v=wide-20260829" alt="紅葉舞う和紙クラフト渓谷の社 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>紅葉舞う和紙クラフト渓谷の社</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-9d76f12a05.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-9d76f12a05.webp?v=wide-20260829" alt="和紙の月夜、藤と鯉の里 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-9d76f12a05.webp?v=wide-20260829" alt="和紙の月夜、藤と鯉の里 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>和紙の月夜、藤と鯉の里</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-6e988f87e5.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-6e988f87e5.webp?v=wide-20260829" alt="夕暮れの隠れ家茶屋、紙の庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-6e988f87e5.webp?v=wide-20260829" alt="夕暮れの隠れ家茶屋、紙の庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夕暮れの隠れ家茶屋、紙の庭園</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-a86b075e55.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-a86b075e55.webp?v=wide-20260829" alt="錦秋に染まる雅の庭園紙細工 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-a86b075e55.webp?v=wide-20260829" alt="錦秋に染まる雅の庭園紙細工 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>錦秋に染まる雅の庭園紙細工</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-842625efda.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-842625efda.webp?v=wide-20260829" alt="和紙灯籠が彩る幻想夜宴 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-842625efda.webp?v=wide-20260829" alt="和紙灯籠が彩る幻想夜宴 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>和紙灯籠が彩る幻想夜宴</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-5f7b480067.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-5f7b480067.webp?v=wide-20260829" alt="桜と滝の浮遊神社 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-5f7b480067.webp?v=wide-20260829" alt="桜と滝の浮遊神社 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>桜と滝の浮遊神社</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-3bce3b5b04.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-3bce3b5b04.webp?v=wide-20260829" alt="歯車が奏でる風の都 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-3bce3b5b04.webp?v=wide-20260829" alt="歯車が奏でる風の都 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>歯車が奏でる風の都</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-01654f5810.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-01654f5810.webp?v=wide-20260829" alt="美麗な千羽鶴と天空の浮城 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-01654f5810.webp?v=wide-20260829" alt="美麗な千羽鶴と天空の浮城 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>美麗な千羽鶴と天空の浮城</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-10e725169e.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-10e725169e.webp?v=wide-20260829" alt="月夜に舞う鯉と藤の調べ thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-10e725169e.webp?v=wide-20260829" alt="月夜に舞う鯉と藤の調べ thumbnail" loading="lazy" width="480" height="270"></span>
         <span>月夜に舞う鯉と藤の調べ</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-77a29488e7.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-77a29488e7.webp?v=wide-20260829" alt="空を泳ぐ鯉と浮島の桜園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-77a29488e7.webp?v=wide-20260829" alt="空を泳ぐ鯉と浮島の桜園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>空を泳ぐ鯉と浮島の桜園</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-28d49c9868.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-28d49c9868.webp?v=wide-20260829" alt="桜霞の和風ペーパークラフト庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-28d49c9868.webp?v=wide-20260829" alt="桜霞の和風ペーパークラフト庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>桜霞の和風ペーパークラフト庭園</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-3f89e7dad7.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-3f89e7dad7.webp?v=wide-20260829" alt="幻想和紙クラフトの山里祭り thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-3f89e7dad7.webp?v=wide-20260829" alt="幻想和紙クラフトの山里祭り thumbnail" loading="lazy" width="480" height="270"></span>
         <span>幻想和紙クラフトの山里祭り</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-826e035356.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-826e035356.webp?v=wide-20260829" alt="幻想の浮遊温泉郷・雲海の湯宿 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-826e035356.webp?v=wide-20260829" alt="幻想の浮遊温泉郷・雲海の湯宿 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>幻想の浮遊温泉郷・雲海の湯宿</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-6921853f05.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-6921853f05.webp?v=wide-20260829" alt="幻想の和風ペーパーアート庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-6921853f05.webp?v=wide-20260829" alt="幻想の和風ペーパーアート庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>幻想の和風ペーパーアート庭園</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-2ac8544596.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-2ac8544596.webp?v=wide-20260829" alt="月明かりに浮かぶ神隠しの杜 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-2ac8544596.webp?v=wide-20260829" alt="月明かりに浮かぶ神隠しの杜 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>月明かりに浮かぶ神隠しの杜</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-49526331d5.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-49526331d5.webp?v=wide-20260829" alt="紅葉揺れる湖畔の紙細工の町 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-49526331d5.webp?v=wide-20260829" alt="紅葉揺れる湖畔の紙細工の町 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>紅葉揺れる湖畔の紙細工の町</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-c12a965c45.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-c12a965c45.webp?v=wide-20260829" alt="海中の夢見る都アクア・ルミナ thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-c12a965c45.webp?v=wide-20260829" alt="海中の夢見る都アクア・ルミナ thumbnail" loading="lazy" width="480" height="270"></span>
         <span>海中の夢見る都アクア・ルミナ</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-a7121d9542.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-a7121d9542.webp?v=wide-20260829" alt="夕焼けの丘と秘密の城下町 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-a7121d9542.webp?v=wide-20260829" alt="夕焼けの丘と秘密の城下町 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夕焼けの丘と秘密の城下町</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-edb6a54175.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-edb6a54175.webp?v=wide-20260829" alt="美麗な風の谷ペーパークラフト村 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-edb6a54175.webp?v=wide-20260829" alt="美麗な風の谷ペーパークラフト村 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>美麗な風の谷ペーパークラフト村</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-e2e5552abe.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-e2e5552abe.webp?v=wide-20260829" alt="月夜の湖畔に輝く魔法の国 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-e2e5552abe.webp?v=wide-20260829" alt="月夜の湖畔に輝く魔法の国 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>月夜の湖畔に輝く魔法の国</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-8702a37d90.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-8702a37d90.webp?v=wide-20260829" alt="星降る水都と黄昏の気球 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-8702a37d90.webp?v=wide-20260829" alt="星降る水都と黄昏の気球 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>星降る水都と黄昏の気球</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-bec2262a0a.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-bec2262a0a.webp?v=wide-20260829" alt="虹影の谷、竜が渡る空 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-bec2262a0a.webp?v=wide-20260829" alt="虹影の谷、竜が渡る空 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>虹影の谷、竜が渡る空</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-8dd4be6e4d.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-8dd4be6e4d.webp?v=wide-20260829" alt="紙細工の幻想的な森と城の風景 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-8dd4be6e4d.webp?v=wide-20260829" alt="紙細工の幻想的な森と城の風景 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>紙細工の幻想的な森と城の風景</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-377142b0ea.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-377142b0ea.webp?v=wide-20260829" alt="月影の城と黒紙の幻想夜景 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-377142b0ea.webp?v=wide-20260829" alt="月影の城と黒紙の幻想夜景 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>月影の城と黒紙の幻想夜景</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-1f231c603e.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-1f231c603e.webp?v=wide-20260829" alt="夕映えの彩り紙影絵庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-1f231c603e.webp?v=wide-20260829" alt="夕映えの彩り紙影絵庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夕映えの彩り紙影絵庭園</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-e30755a202.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-e30755a202.webp?v=wide-20260829" alt="夢幻の切り絵風ファンタジー谷間 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-e30755a202.webp?v=wide-20260829" alt="夢幻の切り絵風ファンタジー谷間 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夢幻の切り絵風ファンタジー谷間</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-d648eff5d7.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-d648eff5d7.webp?v=wide-20260829" alt="幻想的な海中都市 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-d648eff5d7.webp?v=wide-20260829" alt="幻想的な海中都市 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>幻想的な海中都市</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-dc00fda819.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-dc00fda819.webp?v=wide-20260829" alt="幻想の村を望む thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-dc00fda819.webp?v=wide-20260829" alt="幻想の村を望む thumbnail" loading="lazy" width="480" height="270"></span>
         <span>幻想の村を望む</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-a087d689f7.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-a087d689f7.webp?v=wide-20260829" alt="月影の谷と夢渡りの橋 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-a087d689f7.webp?v=wide-20260829" alt="月影の谷と夢渡りの橋 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>月影の谷と夢渡りの橋</span>
       </a>
       <a class="card" href="../artworks/exquisite-paper-craft/artwork-083673c261.html">
-        <img src="../../images/thumbnails/exquisite-paper-craft/artwork-083673c261.webp?v=wide-20260829" alt="切り絵の幻想森と城の風景 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/exquisite-paper-craft/artwork-083673c261.webp?v=wide-20260829" alt="切り絵の幻想森と城の風景 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>切り絵の幻想森と城の風景</span>
       </a>
     </section>

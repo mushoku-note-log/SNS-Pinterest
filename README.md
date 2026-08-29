@@ -7,7 +7,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 ## Gallery Index
 
 - [2.5D illustration of a woman in a kimono / 2.5D着物女性イラスト](docs/gallery/2-5d-illustration-of-a-woman-in-a-kimono.md) - 64 thumbnails
-- [3D Watercolor – Noble Pastel / 立体水彩・ノーブルパステル](docs/gallery/3d-watercolor-noble-pastel.md) - 137 thumbnails
+- [3D Watercolor – Noble Pastel / 立体水彩・ノーブルパステル](docs/gallery/3d-watercolor-noble-pastel.md) - 162 thumbnails
 - [Bamboo Lanterns with Openwork Carving / 竹灯り・透かし彫りアート](docs/gallery/bamboo-lanterns-with-openwork-carving.md) - 41 thumbnails
 - [Beautiful 2.5D art / 2.5D美麗アート](docs/gallery/beautiful-2-5d-art.md) - 80 thumbnails
 - [Beautiful female-type Gothic robot / 女型美麗ゴシックロボット](docs/gallery/beautiful-female-type-gothic-robot.md) - 81 thumbnails

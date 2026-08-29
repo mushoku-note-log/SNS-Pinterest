@@ -16,8 +16,9 @@
     .cta { background: #b01942; border-color: #b01942; color: #fff; }
     .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 18px; }
     .card { display: block; overflow: hidden; border: 1px solid #ddd6ca; border-radius: 8px; background: #fff; color: inherit; text-decoration: none; }
-    .card img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block; background: #eee8dd; }
-    .card span { display: block; padding: 10px; font-size: 13px; color: #333b45; }
+    .thumb-frame { display: block; aspect-ratio: 16 / 9; overflow: hidden; background: #eee8dd; }
+    .card img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .card > span:not(.thumb-frame) { display: block; padding: 10px; font-size: 13px; color: #333b45; }
   </style>
 </head>
 <body>
@@ -33,279 +34,279 @@
   <main>
     <section class="grid" aria-label="Artwork previews">
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-3e7537d686.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-3e7537d686.webp?v=wide-20260829" alt="水玻璃が織りなす月夜の和風幻景 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-3e7537d686.webp?v=wide-20260829" alt="水玻璃が織りなす月夜の和風幻景 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水玻璃が織りなす月夜の和風幻景</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-f7ae9642c6.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-f7ae9642c6.webp?v=wide-20260829" alt="水晶水庭園の幽雅な夜 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-f7ae9642c6.webp?v=wide-20260829" alt="水晶水庭園の幽雅な夜 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶水庭園の幽雅な夜</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-79a5e71b74.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-79a5e71b74.webp?v=wide-20260829" alt="水霧の隠れ里・翠彩庵 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-79a5e71b74.webp?v=wide-20260829" alt="水霧の隠れ里・翠彩庵 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水霧の隠れ里・翠彩庵</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-caef5bf78d.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-caef5bf78d.webp?v=wide-20260829" alt="水晶水郷・花筏の里 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-caef5bf78d.webp?v=wide-20260829" alt="水晶水郷・花筏の里 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶水郷・花筏の里</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-0b5fe6029f.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-0b5fe6029f.webp?v=wide-20260829" alt="水月浮庭・幻想の液晶庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-0b5fe6029f.webp?v=wide-20260829" alt="水月浮庭・幻想の液晶庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水月浮庭・幻想の液晶庭園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-b93f534a33.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-b93f534a33.webp?v=wide-20260829" alt="水晶に輝く幽玄の水庭 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-b93f534a33.webp?v=wide-20260829" alt="水晶に輝く幽玄の水庭 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶に輝く幽玄の水庭</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-1c1600f380.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-1c1600f380.webp?v=wide-20260829" alt="水宙庭園・夢幻の社 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-1c1600f380.webp?v=wide-20260829" alt="水宙庭園・夢幻の社 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水宙庭園・夢幻の社</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-0a8aff67c8.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-0a8aff67c8.webp?v=wide-20260829" alt="水と桜が輝く幻想の社 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-0a8aff67c8.webp?v=wide-20260829" alt="水と桜が輝く幻想の社 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水と桜が輝く幻想の社</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-c596ed42c7.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-c596ed42c7.webp?v=wide-20260829" alt="水晶水都・泡沫の社 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-c596ed42c7.webp?v=wide-20260829" alt="水晶水都・泡沫の社 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶水都・泡沫の社</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-310be8b1de.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-310be8b1de.webp?v=wide-20260829" alt="水泡幽境・幻月庵：幻想水晶の隠れ里 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-310be8b1de.webp?v=wide-20260829" alt="水泡幽境・幻月庵：幻想水晶の隠れ里 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水泡幽境・幻月庵：幻想水晶の隠れ里</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-54bfdb7948.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-54bfdb7948.webp?v=wide-20260829" alt="虹色の水流が紡ぐ雅の里 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-54bfdb7948.webp?v=wide-20260829" alt="虹色の水流が紡ぐ雅の里 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>虹色の水流が紡ぐ雅の里</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-cebeb5a2cd.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-cebeb5a2cd.webp?v=wide-20260829" alt="虹色に輝く水鏡の和風庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-cebeb5a2cd.webp?v=wide-20260829" alt="虹色に輝く水鏡の和風庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>虹色に輝く水鏡の和風庭園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-46d1b9c681.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-46d1b9c681.webp?v=wide-20260829" alt="水精の宿る幻想水庭 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-46d1b9c681.webp?v=wide-20260829" alt="水精の宿る幻想水庭 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水精の宿る幻想水庭</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-684abeb9b0.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-684abeb9b0.webp?v=wide-20260829" alt="水晶水庭と幽玄の境 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-684abeb9b0.webp?v=wide-20260829" alt="水晶水庭と幽玄の境 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶水庭と幽玄の境</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-66ca2d12a0.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-66ca2d12a0.webp?v=wide-20260829" alt="水晶の水郷、桜霞の城 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-66ca2d12a0.webp?v=wide-20260829" alt="水晶の水郷、桜霞の城 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶の水郷、桜霞の城</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-0520599e24.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-0520599e24.webp?v=wide-20260829" alt="水紋に浮かぶ幻想の水郷 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-0520599e24.webp?v=wide-20260829" alt="水紋に浮かぶ幻想の水郷 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水紋に浮かぶ幻想の水郷</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-2bdc77481b.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-2bdc77481b.webp?v=wide-20260829" alt="水晶水庭の幽玄景 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-2bdc77481b.webp?v=wide-20260829" alt="水晶水庭の幽玄景 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶水庭の幽玄景</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-222cd93643.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-222cd93643.webp?v=wide-20260829" alt="水晶水庭・月華の幻想郷 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-222cd93643.webp?v=wide-20260829" alt="水晶水庭・月華の幻想郷 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶水庭・月華の幻想郷</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-0254b117b6.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-0254b117b6.webp?v=wide-20260829" alt="水奏の雅庭：水晶の和庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-0254b117b6.webp?v=wide-20260829" alt="水奏の雅庭：水晶の和庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水奏の雅庭：水晶の和庭園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-849ee6a028.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-849ee6a028.webp?v=wide-20260829" alt="水鏡織りの幻想庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-849ee6a028.webp?v=wide-20260829" alt="水鏡織りの幻想庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水鏡織りの幻想庭園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-76bc87184c.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-76bc87184c.webp?v=wide-20260829" alt="流麗な水晶庭園の四季 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-76bc87184c.webp?v=wide-20260829" alt="流麗な水晶庭園の四季 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>流麗な水晶庭園の四季</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-bac1f6b581.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-bac1f6b581.webp?v=wide-20260829" alt="水晶水庭・美麗幻想郷 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-bac1f6b581.webp?v=wide-20260829" alt="水晶水庭・美麗幻想郷 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶水庭・美麗幻想郷</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-4104f67036.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-4104f67036.webp?v=wide-20260829" alt="水流の詩、幻想の水庭 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-4104f67036.webp?v=wide-20260829" alt="水流の詩、幻想の水庭 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水流の詩、幻想の水庭</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-21d5ee058e.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-21d5ee058e.webp?v=wide-20260829" alt="水鏡に浮かぶ幽玄の水郷 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-21d5ee058e.webp?v=wide-20260829" alt="水鏡に浮かぶ幽玄の水郷 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水鏡に浮かぶ幽玄の水郷</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-aa86038da5.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-aa86038da5.webp?v=wide-20260829" alt="雫紡ぎの雅境・水の幻想庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-aa86038da5.webp?v=wide-20260829" alt="雫紡ぎの雅境・水の幻想庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>雫紡ぎの雅境・水の幻想庭園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-785a95259c.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-785a95259c.webp?v=wide-20260829" alt="流彩の幽世水景、幻想水庭 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-785a95259c.webp?v=wide-20260829" alt="流彩の幽世水景、幻想水庭 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>流彩の幽世水景、幻想水庭</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-a9b7879113.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-a9b7879113.webp?v=wide-20260829" alt="水晶に輝く夢見庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-a9b7879113.webp?v=wide-20260829" alt="水晶に輝く夢見庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶に輝く夢見庭園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-4ceccae329.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-4ceccae329.webp?v=wide-20260829" alt="水泡の庭、悠月の幻想水景 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-4ceccae329.webp?v=wide-20260829" alt="水泡の庭、悠月の幻想水景 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水泡の庭、悠月の幻想水景</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-2e79c94f81.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-2e79c94f81.webp?v=wide-20260829" alt="水晶の幽玄流水郷 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-2e79c94f81.webp?v=wide-20260829" alt="水晶の幽玄流水郷 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶の幽玄流水郷</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-48eacfba08.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-48eacfba08.webp?v=wide-20260829" alt="水鏡の幻想水晶庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-48eacfba08.webp?v=wide-20260829" alt="水鏡の幻想水晶庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水鏡の幻想水晶庭園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-1495dbed47.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-1495dbed47.webp?v=wide-20260829" alt="液晶の星海航海記 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-1495dbed47.webp?v=wide-20260829" alt="液晶の星海航海記 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>液晶の星海航海記</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-ce0a4dfb99.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-ce0a4dfb99.webp?v=wide-20260829" alt="水晶の水界・幻想都市 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-ce0a4dfb99.webp?v=wide-20260829" alt="水晶の水界・幻想都市 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶の水界・幻想都市</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-2e1a55b413.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-2e1a55b413.webp?v=wide-20260829" alt="液晶の幻想庭園「エターナル・アクアリス」 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-2e1a55b413.webp?v=wide-20260829" alt="液晶の幻想庭園「エターナル・アクアリス」 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>液晶の幻想庭園「エターナル・アクアリス」</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-375a0249be.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-375a0249be.webp?v=wide-20260829" alt="オーロラ・ラグーンの幻想水晶世界 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-375a0249be.webp?v=wide-20260829" alt="オーロラ・ラグーンの幻想水晶世界 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>オーロラ・ラグーンの幻想水晶世界</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-df11596a8f.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-df11596a8f.webp?v=wide-20260829" alt="潮騒のシェル・リーフ thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-df11596a8f.webp?v=wide-20260829" alt="潮騒のシェル・リーフ thumbnail" loading="lazy" width="480" height="270"></span>
         <span>潮騒のシェル・リーフ</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-239b5191f4.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-239b5191f4.webp?v=wide-20260829" alt="水泡の桃源郷、輝く液晶庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-239b5191f4.webp?v=wide-20260829" alt="水泡の桃源郷、輝く液晶庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水泡の桃源郷、輝く液晶庭園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-5fee3c43fc.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-5fee3c43fc.webp?v=wide-20260829" alt="液体が織りなす星の楽園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-5fee3c43fc.webp?v=wide-20260829" alt="液体が織りなす星の楽園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>液体が織りなす星の楽園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-05ef79d43b.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-05ef79d43b.webp?v=wide-20260829" alt="輝く水晶の液体王国 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-05ef79d43b.webp?v=wide-20260829" alt="輝く水晶の液体王国 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>輝く水晶の液体王国</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-1338693ccc.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-1338693ccc.webp?v=wide-20260829" alt="水晶液体王国の夢浮島 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-1338693ccc.webp?v=wide-20260829" alt="水晶液体王国の夢浮島 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶液体王国の夢浮島</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-1f4b1c78ff.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-1f4b1c78ff.webp?v=wide-20260829" alt="星降る水上神殿都市 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-1f4b1c78ff.webp?v=wide-20260829" alt="星降る水上神殿都市 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>星降る水上神殿都市</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-5de47fa0c2.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-5de47fa0c2.webp?v=wide-20260829" alt="流泉の世界樹：水の楽園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-5de47fa0c2.webp?v=wide-20260829" alt="流泉の世界樹：水の楽園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>流泉の世界樹：水の楽園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-ae89284b83.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-ae89284b83.webp?v=wide-20260829" alt="輝く深海の水晶宮殿 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-ae89284b83.webp?v=wide-20260829" alt="輝く深海の水晶宮殿 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>輝く深海の水晶宮殿</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-34979f3878.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-34979f3878.webp?v=wide-20260829" alt="水晶水界の空中王国 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-34979f3878.webp?v=wide-20260829" alt="水晶水界の空中王国 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶水界の空中王国</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-6f4b645be4.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-6f4b645be4.webp?v=wide-20260829" alt="水紋のミスト庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-6f4b645be4.webp?v=wide-20260829" alt="水紋のミスト庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水紋のミスト庭園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-8994ce07d8.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-8994ce07d8.webp?v=wide-20260829" alt="水星の調律庭、液体幻想の箱庭 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-8994ce07d8.webp?v=wide-20260829" alt="水星の調律庭、液体幻想の箱庭 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水星の調律庭、液体幻想の箱庭</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-92b99daf38.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-92b99daf38.webp?v=wide-20260829" alt="水晶水庭の小さな奇跡 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-92b99daf38.webp?v=wide-20260829" alt="水晶水庭の小さな奇跡 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶水庭の小さな奇跡</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-56fa13b52a.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-56fa13b52a.webp?v=wide-20260829" alt="水泡の楽園、幻の旋律 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-56fa13b52a.webp?v=wide-20260829" alt="水泡の楽園、幻の旋律 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水泡の楽園、幻の旋律</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-111406f60b.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-111406f60b.webp?v=wide-20260829" alt="水韻の幻庭園：煌めく水晶世界 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-111406f60b.webp?v=wide-20260829" alt="水韻の幻庭園：煌めく水晶世界 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水韻の幻庭園：煌めく水晶世界</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-41763fbdd9.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-41763fbdd9.webp?v=wide-20260829" alt="水晶ガラスの水上幻想郷 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-41763fbdd9.webp?v=wide-20260829" alt="水晶ガラスの水上幻想郷 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶ガラスの水上幻想郷</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-dd220856a4.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-dd220856a4.webp?v=wide-20260829" alt="水鏡に浮かぶ雅な液体庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-dd220856a4.webp?v=wide-20260829" alt="水鏡に浮かぶ雅な液体庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水鏡に浮かぶ雅な液体庭園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-f41c5e45ad.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-f41c5e45ad.webp?v=wide-20260829" alt="翠晶の水郷 ― 花舟めぐる玻璃庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-f41c5e45ad.webp?v=wide-20260829" alt="翠晶の水郷 ― 花舟めぐる玻璃庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>翠晶の水郷 ― 花舟めぐる玻璃庭園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-2c70237c6b.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-2c70237c6b.webp?v=wide-20260829" alt="ガラスの風車と桜の棚田 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-2c70237c6b.webp?v=wide-20260829" alt="ガラスの風車と桜の棚田 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>ガラスの風車と桜の棚田</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-68d614ff11.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-68d614ff11.webp?v=wide-20260829" alt="蒼海の水晶遺都 ― 沈みし幻船の楽園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-68d614ff11.webp?v=wide-20260829" alt="蒼海の水晶遺都 ― 沈みし幻船の楽園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>蒼海の水晶遺都 ― 沈みし幻船の楽園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-d45c7e0243.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-d45c7e0243.webp?v=wide-20260829" alt="輝く液晶の幻想渓谷 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-d45c7e0243.webp?v=wide-20260829" alt="輝く液晶の幻想渓谷 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>輝く液晶の幻想渓谷</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-eae703bfb2.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-eae703bfb2.webp?v=wide-20260829" alt="虹色に輝く水晶きのこの楽園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-eae703bfb2.webp?v=wide-20260829" alt="虹色に輝く水晶きのこの楽園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>虹色に輝く水晶きのこの楽園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-7254ee09b4.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-7254ee09b4.webp?v=wide-20260829" alt="発光クラゲの水中浮遊島テラリウム thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-7254ee09b4.webp?v=wide-20260829" alt="発光クラゲの水中浮遊島テラリウム thumbnail" loading="lazy" width="480" height="270"></span>
         <span>発光クラゲの水中浮遊島テラリウム</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-bc7ac47faf.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-bc7ac47faf.webp?v=wide-20260829" alt="クリスタル水上都市の幻想 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-bc7ac47faf.webp?v=wide-20260829" alt="クリスタル水上都市の幻想 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>クリスタル水上都市の幻想</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-8796fadb07.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-8796fadb07.webp?v=wide-20260829" alt="水晶海の幻想ミニチュア世界 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-8796fadb07.webp?v=wide-20260829" alt="水晶海の幻想ミニチュア世界 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶海の幻想ミニチュア世界</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-c598e96d4d.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-c598e96d4d.webp?v=wide-20260829" alt="水鏡桃源郷 ― 桜灯る幻想庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-c598e96d4d.webp?v=wide-20260829" alt="水鏡桃源郷 ― 桜灯る幻想庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水鏡桃源郷 ― 桜灯る幻想庭園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-8bd1f013bd.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-8bd1f013bd.webp?v=wide-20260829" alt="透明水晶の魔法浮遊島 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-8bd1f013bd.webp?v=wide-20260829" alt="透明水晶の魔法浮遊島 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>透明水晶の魔法浮遊島</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-e31e74f7b6.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-e31e74f7b6.webp?v=wide-20260829" alt="星雫の水精姫 ― 黄昏に輝く天空宮殿 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-e31e74f7b6.webp?v=wide-20260829" alt="星雫の水精姫 ― 黄昏に輝く天空宮殿 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>星雫の水精姫 ― 黄昏に輝く天空宮殿</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-64bf5a408d.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-64bf5a408d.webp?v=wide-20260829" alt="水晶のユニコーンと幻想の滝 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-64bf5a408d.webp?v=wide-20260829" alt="水晶のユニコーンと幻想の滝 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶のユニコーンと幻想の滝</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-1b7374a793.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-1b7374a793.webp?v=wide-20260829" alt="水晶の海に佇む幻想の女神 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-1b7374a793.webp?v=wide-20260829" alt="水晶の海に佇む幻想の女神 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶の海に佇む幻想の女神</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-f3c0eba3e7.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-f3c0eba3e7.webp?v=wide-20260829" alt="星海の水晶王国 ― 月光に煌めく幻想都市 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-f3c0eba3e7.webp?v=wide-20260829" alt="星海の水晶王国 ― 月光に煌めく幻想都市 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>星海の水晶王国 ― 月光に煌めく幻想都市</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-eb4cb6dc6c.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-eb4cb6dc6c.webp?v=wide-20260829" alt="水晶幻想郷 ― 虹光に輝く水の楽園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-eb4cb6dc6c.webp?v=wide-20260829" alt="水晶幻想郷 ― 虹光に輝く水の楽園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>水晶幻想郷 ― 虹光に輝く水の楽園</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-f3c5a34848.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-f3c5a34848.webp?v=wide-20260829" alt="都会の夜景と満天の星空 thumbnail" loading="lazy" width="480" height="320">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-f3c5a34848.webp?v=wide-20260829" alt="都会の夜景と満天の星空 thumbnail" loading="lazy" width="480" height="320"></span>
         <span>都会の夜景と満天の星空</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-5c906c2195.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-5c906c2195.webp?v=wide-20260829" alt="美しい女性、背景ジオラマ thumbnail" loading="lazy" width="384" height="480">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-5c906c2195.webp?v=wide-20260829" alt="美しい女性、背景ジオラマ thumbnail" loading="lazy" width="384" height="480"></span>
         <span>美しい女性、背景ジオラマ</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-c206e4a592.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-c206e4a592.webp?v=wide-20260829" alt="花瓶とバラ thumbnail" loading="lazy" width="384" height="480">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-c206e4a592.webp?v=wide-20260829" alt="花瓶とバラ thumbnail" loading="lazy" width="384" height="480"></span>
         <span>花瓶とバラ</span>
       </a>
       <a class="card" href="../artworks/beautiful-waterliquid/artwork-9a5c71209c.html">
-        <img src="../../images/thumbnails/beautiful-waterliquid/artwork-9a5c71209c.webp?v=wide-20260829" alt="液体の球体に銀河を表現して thumbnail" loading="lazy" width="480" height="480">
+        <span class="thumb-frame"><img src="../../images/thumbnails/beautiful-waterliquid/artwork-9a5c71209c.webp?v=wide-20260829" alt="液体の球体に銀河を表現して thumbnail" loading="lazy" width="480" height="480"></span>
         <span>液体の球体に銀河を表現して</span>
       </a>
     </section>

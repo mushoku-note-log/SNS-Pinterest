@@ -16,8 +16,9 @@
     .cta { background: #b01942; border-color: #b01942; color: #fff; }
     .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 18px; }
     .card { display: block; overflow: hidden; border: 1px solid #ddd6ca; border-radius: 8px; background: #fff; color: inherit; text-decoration: none; }
-    .card img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block; background: #eee8dd; }
-    .card span { display: block; padding: 10px; font-size: 13px; color: #333b45; }
+    .thumb-frame { display: block; aspect-ratio: 16 / 9; overflow: hidden; background: #eee8dd; }
+    .card img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .card > span:not(.thumb-frame) { display: block; padding: 10px; font-size: 13px; color: #333b45; }
   </style>
 </head>
 <body>
@@ -33,103 +34,103 @@
   <main>
     <section class="grid" aria-label="Artwork previews">
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-048718fe11.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-048718fe11.webp?v=wide-20260829" alt="春陽の盆栽庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-048718fe11.webp?v=wide-20260829" alt="春陽の盆栽庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春陽の盆栽庭園</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-e7ee40a79f.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-e7ee40a79f.webp?v=wide-20260829" alt="夕映えに輝く盆栽庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-e7ee40a79f.webp?v=wide-20260829" alt="夕映えに輝く盆栽庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夕映えに輝く盆栽庭園</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-3f63650d5b.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-3f63650d5b.webp?v=wide-20260829" alt="美麗な清風盆景の庭園と滝 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-3f63650d5b.webp?v=wide-20260829" alt="美麗な清風盆景の庭園と滝 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>美麗な清風盆景の庭園と滝</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-122b6aef46.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-122b6aef46.webp?v=wide-20260829" alt="錦秋の盆栽庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-122b6aef46.webp?v=wide-20260829" alt="錦秋の盆栽庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>錦秋の盆栽庭園</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-914872caf9.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-914872caf9.webp?v=wide-20260829" alt="夏光に彩られた盆栽庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-914872caf9.webp?v=wide-20260829" alt="夏光に彩られた盆栽庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夏光に彩られた盆栽庭園</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-71f5ee3037.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-71f5ee3037.webp?v=wide-20260829" alt="秋彩の盆栽渓流庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-71f5ee3037.webp?v=wide-20260829" alt="秋彩の盆栽渓流庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋彩の盆栽渓流庭園</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-968977169a.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-968977169a.webp?v=wide-20260829" alt="春爛漫の美麗な盆栽庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-968977169a.webp?v=wide-20260829" alt="春爛漫の美麗な盆栽庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春爛漫の美麗な盆栽庭園</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-aab2b7fab0.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-aab2b7fab0.webp?v=wide-20260829" alt="夕映えの湖畔盆景展 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-aab2b7fab0.webp?v=wide-20260829" alt="夕映えの湖畔盆景展 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夕映えの湖畔盆景展</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-9eabf16592.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-9eabf16592.webp?v=wide-20260829" alt="朝霧に包まれた美麗な盆栽庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-9eabf16592.webp?v=wide-20260829" alt="朝霧に包まれた美麗な盆栽庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>朝霧に包まれた美麗な盆栽庭園</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/2-5a6b375534.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/2-5a6b375534.webp?v=wide-20260829" alt="秋彩に包まれた盆栽庭園2 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/2-5a6b375534.webp?v=wide-20260829" alt="秋彩に包まれた盆栽庭園2 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋彩に包まれた盆栽庭園2</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-3c724d4d9d.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-3c724d4d9d.webp?v=wide-20260829" alt="雨上がりの盆栽庭園展 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-3c724d4d9d.webp?v=wide-20260829" alt="雨上がりの盆栽庭園展 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>雨上がりの盆栽庭園展</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-e9ef70b55b.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-e9ef70b55b.webp?v=wide-20260829" alt="紫陽花映える盆栽展庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-e9ef70b55b.webp?v=wide-20260829" alt="紫陽花映える盆栽展庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>紫陽花映える盆栽展庭園</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-76f1755e30.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-76f1755e30.webp?v=wide-20260829" alt="夕映えの美麗な盆景庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-76f1755e30.webp?v=wide-20260829" alt="夕映えの美麗な盆景庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夕映えの美麗な盆景庭園</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-274afaa4cc.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-274afaa4cc.webp?v=wide-20260829" alt="春陽の盆栽展、桜咲く庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-274afaa4cc.webp?v=wide-20260829" alt="春陽の盆栽展、桜咲く庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春陽の盆栽展、桜咲く庭園</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-986124e579.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-986124e579.webp?v=wide-20260829" alt="錦秋の盆景と茶室 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-986124e579.webp?v=wide-20260829" alt="錦秋の盆景と茶室 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>錦秋の盆景と茶室</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-a4e46e4132.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-a4e46e4132.webp?v=wide-20260829" alt="雪景色の美麗な盆栽庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-a4e46e4132.webp?v=wide-20260829" alt="雪景色の美麗な盆栽庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>雪景色の美麗な盆栽庭園</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-34e1e9afa9.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-34e1e9afa9.webp?v=wide-20260829" alt="新緑の盆栽庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-34e1e9afa9.webp?v=wide-20260829" alt="新緑の盆栽庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>新緑の盆栽庭園</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-62b3ce9af5.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-62b3ce9af5.webp?v=wide-20260829" alt="月夜に灯る盆栽庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-62b3ce9af5.webp?v=wide-20260829" alt="月夜に灯る盆栽庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>月夜に灯る盆栽庭園</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-5dfbb7150e.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-5dfbb7150e.webp?v=wide-20260829" alt="春霞の盆栽庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-5dfbb7150e.webp?v=wide-20260829" alt="春霞の盆栽庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春霞の盆栽庭園</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-f5bab67ace.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-f5bab67ace.webp?v=wide-20260829" alt="秋彩に包まれた盆栽庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-f5bab67ace.webp?v=wide-20260829" alt="秋彩に包まれた盆栽庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋彩に包まれた盆栽庭園</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-4666acc7cf.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-4666acc7cf.webp?v=wide-20260829" alt="美麗な雅の盆栽庭園展 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-4666acc7cf.webp?v=wide-20260829" alt="美麗な雅の盆栽庭園展 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>美麗な雅の盆栽庭園展</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-8ec4479af8.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-8ec4479af8.webp?v=wide-20260829" alt="美麗な四季の彩り盆栽庭園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-8ec4479af8.webp?v=wide-20260829" alt="美麗な四季の彩り盆栽庭園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>美麗な四季の彩り盆栽庭園</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-c69ef5a179.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-c69ef5a179.webp?v=wide-20260829" alt="美麗な古寺の盆栽回廊 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-c69ef5a179.webp?v=wide-20260829" alt="美麗な古寺の盆栽回廊 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>美麗な古寺の盆栽回廊</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-8d6e3bcf8a.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-8d6e3bcf8a.webp?v=wide-20260829" alt="四季彩る美麗な盆栽苑 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-8d6e3bcf8a.webp?v=wide-20260829" alt="四季彩る美麗な盆栽苑 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>四季彩る美麗な盆栽苑</span>
       </a>
       <a class="card" href="../artworks/bonsai-wabisabi/artwork-90e9c3e1c7.html">
-        <img src="../../images/thumbnails/bonsai-wabisabi/artwork-90e9c3e1c7.webp?v=wide-20260829" alt="美麗な盆栽庭園の春彩展 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/bonsai-wabisabi/artwork-90e9c3e1c7.webp?v=wide-20260829" alt="美麗な盆栽庭園の春彩展 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>美麗な盆栽庭園の春彩展</span>
       </a>
     </section>

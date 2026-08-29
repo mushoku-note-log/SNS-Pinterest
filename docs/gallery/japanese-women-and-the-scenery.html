@@ -16,8 +16,9 @@
     .cta { background: #b01942; border-color: #b01942; color: #fff; }
     .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 18px; }
     .card { display: block; overflow: hidden; border: 1px solid #ddd6ca; border-radius: 8px; background: #fff; color: inherit; text-decoration: none; }
-    .card img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block; background: #eee8dd; }
-    .card span { display: block; padding: 10px; font-size: 13px; color: #333b45; }
+    .thumb-frame { display: block; aspect-ratio: 16 / 9; overflow: hidden; background: #eee8dd; }
+    .card img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .card > span:not(.thumb-frame) { display: block; padding: 10px; font-size: 13px; color: #333b45; }
   </style>
 </head>
 <body>
@@ -33,383 +34,383 @@
   <main>
     <section class="grid" aria-label="Artwork previews">
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-27eb01d649.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-27eb01d649.webp?v=wide-20260829" alt="東京タワー thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-27eb01d649.webp?v=wide-20260829" alt="東京タワー thumbnail" loading="lazy" width="480" height="270"></span>
         <span>東京タワー</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-306e4e0ea0.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-306e4e0ea0.webp?v=wide-20260829" alt="沖縄 美ら海水族館エリア thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-306e4e0ea0.webp?v=wide-20260829" alt="沖縄 美ら海水族館エリア thumbnail" loading="lazy" width="480" height="270"></span>
         <span>沖縄 美ら海水族館エリア</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-d81156b400.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-d81156b400.webp?v=wide-20260829" alt="小樽運河・北海道 冬ガス灯 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-d81156b400.webp?v=wide-20260829" alt="小樽運河・北海道 冬ガス灯 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>小樽運河・北海道 冬ガス灯</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-dfec3c99d9.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-dfec3c99d9.webp?v=wide-20260829" alt="仙台 七夕まつり thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-dfec3c99d9.webp?v=wide-20260829" alt="仙台 七夕まつり thumbnail" loading="lazy" width="480" height="270"></span>
         <span>仙台 七夕まつり</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-4fd35ef58b.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-4fd35ef58b.webp?v=wide-20260829" alt="福岡 キャナルシティ博多 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-4fd35ef58b.webp?v=wide-20260829" alt="福岡 キャナルシティ博多 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>福岡 キャナルシティ博多</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-5998870efa.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-5998870efa.webp?v=wide-20260829" alt="神戸 ハーバーランド 夜 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-5998870efa.webp?v=wide-20260829" alt="神戸 ハーバーランド 夜 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>神戸 ハーバーランド 夜</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-5856076193.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-5856076193.webp?v=wide-20260829" alt="名古屋 栄・テレビ塔 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-5856076193.webp?v=wide-20260829" alt="名古屋 栄・テレビ塔 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>名古屋 栄・テレビ塔</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-5cc702aeba.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-5cc702aeba.webp?v=wide-20260829" alt="札幌 時計台・大通公園 雪まつり thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-5cc702aeba.webp?v=wide-20260829" alt="札幌 時計台・大通公園 雪まつり thumbnail" loading="lazy" width="480" height="270"></span>
         <span>札幌 時計台・大通公園 雪まつり</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-505d98a197.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-505d98a197.webp?v=wide-20260829" alt="横浜 みなとみらい thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-505d98a197.webp?v=wide-20260829" alt="横浜 みなとみらい thumbnail" loading="lazy" width="480" height="270"></span>
         <span>横浜 みなとみらい</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-f079fb5795.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-f079fb5795.webp?v=wide-20260829" alt="春日大社・奈良 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-f079fb5795.webp?v=wide-20260829" alt="春日大社・奈良 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春日大社・奈良</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-b5e83b5ef9.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-b5e83b5ef9.webp?v=wide-20260829" alt="高野山 壇上伽藍・和歌山 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-b5e83b5ef9.webp?v=wide-20260829" alt="高野山 壇上伽藍・和歌山 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>高野山 壇上伽藍・和歌山</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-64f97295d3.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-64f97295d3.webp?v=wide-20260829" alt="出雲大社・島根 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-64f97295d3.webp?v=wide-20260829" alt="出雲大社・島根 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>出雲大社・島根</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-cb7f460e5a.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-cb7f460e5a.webp?v=wide-20260829" alt="熊本城 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-cb7f460e5a.webp?v=wide-20260829" alt="熊本城 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>熊本城</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-d6ffa544f3.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-d6ffa544f3.webp?v=wide-20260829" alt="金刀比羅宮・香川 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-d6ffa544f3.webp?v=wide-20260829" alt="金刀比羅宮・香川 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>金刀比羅宮・香川</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-52fdb0e251.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-52fdb0e251.webp?v=wide-20260829" alt="松本城・長野 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-52fdb0e251.webp?v=wide-20260829" alt="松本城・長野 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>松本城・長野</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-ff9fa11131.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-ff9fa11131.webp?v=wide-20260829" alt="兼六園・金沢 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-ff9fa11131.webp?v=wide-20260829" alt="兼六園・金沢 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>兼六園・金沢</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-03f254f5f3.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-03f254f5f3.webp?v=wide-20260829" alt="日光東照宮・栃木 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-03f254f5f3.webp?v=wide-20260829" alt="日光東照宮・栃木 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>日光東照宮・栃木</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-5cd15dc35f.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-5cd15dc35f.webp?v=wide-20260829" alt="沖縄・那覇 国際通り thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-5cd15dc35f.webp?v=wide-20260829" alt="沖縄・那覇 国際通り thumbnail" loading="lazy" width="480" height="270"></span>
         <span>沖縄・那覇 国際通り</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-68d9e9b3d9.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-68d9e9b3d9.webp?v=wide-20260829" alt="大阪・道頓堀 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-68d9e9b3d9.webp?v=wide-20260829" alt="大阪・道頓堀 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>大阪・道頓堀</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-44d99a8212.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-44d99a8212.webp?v=wide-20260829" alt="東京・秋葉原 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-44d99a8212.webp?v=wide-20260829" alt="東京・秋葉原 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>東京・秋葉原</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-72037ae3d8.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-72037ae3d8.webp?v=wide-20260829" alt="東京・原宿 竹下通り thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-72037ae3d8.webp?v=wide-20260829" alt="東京・原宿 竹下通り thumbnail" loading="lazy" width="480" height="270"></span>
         <span>東京・原宿 竹下通り</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-a56fa08f98.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-a56fa08f98.webp?v=wide-20260829" alt="兵庫・姫路城 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-a56fa08f98.webp?v=wide-20260829" alt="兵庫・姫路城 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>兵庫・姫路城</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-851c52b63a.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-851c52b63a.webp?v=wide-20260829" alt="岐阜・白川郷 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-851c52b63a.webp?v=wide-20260829" alt="岐阜・白川郷 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>岐阜・白川郷</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-9091d38c5c.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-9091d38c5c.webp?v=wide-20260829" alt="東京・浅草 雷門 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-9091d38c5c.webp?v=wide-20260829" alt="東京・浅草 雷門 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>東京・浅草 雷門</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-e21f0c39c8.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-e21f0c39c8.webp?v=wide-20260829" alt="京都・清水寺 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-e21f0c39c8.webp?v=wide-20260829" alt="京都・清水寺 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>京都・清水寺</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-ce5125a17c.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-ce5125a17c.webp?v=wide-20260829" alt="東京・渋谷スクランブル thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-ce5125a17c.webp?v=wide-20260829" alt="東京・渋谷スクランブル thumbnail" loading="lazy" width="480" height="270"></span>
         <span>東京・渋谷スクランブル</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-dba9b2f5ab.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-dba9b2f5ab.webp?v=wide-20260829" alt="神奈川・江ノ島 鎌倉 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-dba9b2f5ab.webp?v=wide-20260829" alt="神奈川・江ノ島 鎌倉 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>神奈川・江ノ島 鎌倉</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-32ed696d86.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-32ed696d86.webp?v=wide-20260829" alt="広島・厳島神社 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-32ed696d86.webp?v=wide-20260829" alt="広島・厳島神社 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>広島・厳島神社</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-2ce87e8055.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2ce87e8055.webp?v=wide-20260829" alt="奈良・東大寺 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2ce87e8055.webp?v=wide-20260829" alt="奈良・東大寺 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>奈良・東大寺</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-a465ad5d96.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-a465ad5d96.webp?v=wide-20260829" alt="伏見稲荷の千本鳥居 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-a465ad5d96.webp?v=wide-20260829" alt="伏見稲荷の千本鳥居 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>伏見稲荷の千本鳥居</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-a57e6f5323.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-a57e6f5323.webp?v=wide-20260829" alt="冬の乳頭温泉郷 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-a57e6f5323.webp?v=wide-20260829" alt="冬の乳頭温泉郷 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>冬の乳頭温泉郷</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-fcfc1b18d6.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-fcfc1b18d6.webp?v=wide-20260829" alt="秋の大内宿 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-fcfc1b18d6.webp?v=wide-20260829" alt="秋の大内宿 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋の大内宿</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-1901d45f54.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-1901d45f54.webp?v=wide-20260829" alt="夏の白神山地、ブナの原生林 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-1901d45f54.webp?v=wide-20260829" alt="夏の白神山地、ブナの原生林 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夏の白神山地、ブナの原生林</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-836a9fedea.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-836a9fedea.webp?v=wide-20260829" alt="春の河津川の河津桜並木 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-836a9fedea.webp?v=wide-20260829" alt="春の河津川の河津桜並木 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春の河津川の河津桜並木</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-1927d8e8a6.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-1927d8e8a6.webp?v=wide-20260829" alt="冬の美瑛、クリスマスツリーの丘 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-1927d8e8a6.webp?v=wide-20260829" alt="冬の美瑛、クリスマスツリーの丘 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>冬の美瑛、クリスマスツリーの丘</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-9b3387775e.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-9b3387775e.webp?v=wide-20260829" alt="秋の竹田城跡、天空の城 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-9b3387775e.webp?v=wide-20260829" alt="秋の竹田城跡、天空の城 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋の竹田城跡、天空の城</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-03a8b82cc4.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-03a8b82cc4.webp?v=wide-20260829" alt="夏の美瑛の青い池 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-03a8b82cc4.webp?v=wide-20260829" alt="夏の美瑛の青い池 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夏の美瑛の青い池</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-8624fa8035.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-8624fa8035.webp?v=wide-20260829" alt="春の藤原京の菜の花畑 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-8624fa8035.webp?v=wide-20260829" alt="春の藤原京の菜の花畑 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春の藤原京の菜の花畑</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-b268d69fd1.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-b268d69fd1.webp?v=wide-20260829" alt="冬の蔵王の樹氷原 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-b268d69fd1.webp?v=wide-20260829" alt="冬の蔵王の樹氷原 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>冬の蔵王の樹氷原</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-693e62a510.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-693e62a510.webp?v=wide-20260829" alt="秋の上高地 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-693e62a510.webp?v=wide-20260829" alt="秋の上高地 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋の上高地</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-d8c1f170a7.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-d8c1f170a7.webp?v=wide-20260829" alt="夏の尾瀬ヶ原 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-d8c1f170a7.webp?v=wide-20260829" alt="夏の尾瀬ヶ原 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夏の尾瀬ヶ原</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-d69d61da5e.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-d69d61da5e.webp?v=wide-20260829" alt="春の弘前公園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-d69d61da5e.webp?v=wide-20260829" alt="春の弘前公園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春の弘前公園</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-6522ee87a8.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-6522ee87a8.webp?v=wide-20260829" alt="嵐山・渡月橋 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-6522ee87a8.webp?v=wide-20260829" alt="嵐山・渡月橋 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>嵐山・渡月橋</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-dff7f36b32.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-dff7f36b32.webp?v=wide-20260829" alt="夏の上高地 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-dff7f36b32.webp?v=wide-20260829" alt="夏の上高地 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夏の上高地</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-4d484109c9.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-4d484109c9.webp?v=wide-20260829" alt="春の角館の武家屋敷通り thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-4d484109c9.webp?v=wide-20260829" alt="春の角館の武家屋敷通り thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春の角館の武家屋敷通り</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-57277dfd59.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-57277dfd59.webp?v=wide-20260829" alt="冬の銀山温泉の雪の夜 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-57277dfd59.webp?v=wide-20260829" alt="冬の銀山温泉の雪の夜 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>冬の銀山温泉の雪の夜</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-1467aed60c.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-1467aed60c.webp?v=wide-20260829" alt="秋の那須高原 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-1467aed60c.webp?v=wide-20260829" alt="秋の那須高原 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋の那須高原</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-2af0092991.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2af0092991.webp?v=wide-20260829" alt="夏の由比ヶ浜 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2af0092991.webp?v=wide-20260829" alt="夏の由比ヶ浜 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夏の由比ヶ浜</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-1466ab978b.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-1466ab978b.webp?v=wide-20260829" alt="春の奈良井宿 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-1466ab978b.webp?v=wide-20260829" alt="春の奈良井宿 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春の奈良井宿</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-70ee37d969.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-70ee37d969.webp?v=wide-20260829" alt="冬の白川郷 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-70ee37d969.webp?v=wide-20260829" alt="冬の白川郷 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>冬の白川郷</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-2ef6dbbefd.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2ef6dbbefd.webp?v=wide-20260829" alt="秋の京都祇園 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2ef6dbbefd.webp?v=wide-20260829" alt="秋の京都祇園 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋の京都祇園</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-1c5e89c982.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-1c5e89c982.webp?v=wide-20260829" alt="高尾山の清流 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-1c5e89c982.webp?v=wide-20260829" alt="高尾山の清流 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>高尾山の清流</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-03622615ee.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-03622615ee.webp?v=wide-20260829" alt="春の吉野山千本桜 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-03622615ee.webp?v=wide-20260829" alt="春の吉野山千本桜 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春の吉野山千本桜</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-a973bc24b1.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-a973bc24b1.webp?v=wide-20260829" alt="冬の飛騨高山・宮川朝市 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-a973bc24b1.webp?v=wide-20260829" alt="冬の飛騨高山・宮川朝市 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>冬の飛騨高山・宮川朝市</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-5e34dffd3c.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-5e34dffd3c.webp?v=wide-20260829" alt="秋の奥入瀬渓流 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-5e34dffd3c.webp?v=wide-20260829" alt="秋の奥入瀬渓流 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋の奥入瀬渓流</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-89e8035714.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-89e8035714.webp?v=wide-20260829" alt="夏の厳島神社 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-89e8035714.webp?v=wide-20260829" alt="夏の厳島神社 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夏の厳島神社</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-65584932bb.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-65584932bb.webp?v=wide-20260829" alt="春の高野山奥之院 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-65584932bb.webp?v=wide-20260829" alt="春の高野山奥之院 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春の高野山奥之院</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-365f047cf7.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-365f047cf7.webp?v=wide-20260829" alt="冬の銀山温泉 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-365f047cf7.webp?v=wide-20260829" alt="冬の銀山温泉 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>冬の銀山温泉</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-d457a4f6ed.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-d457a4f6ed.webp?v=wide-20260829" alt="秋の比叡山延暦寺 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-d457a4f6ed.webp?v=wide-20260829" alt="秋の比叡山延暦寺 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋の比叡山延暦寺</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-2929b5156a.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2929b5156a.webp?v=wide-20260829" alt="夏の長谷寺・あじさい回廊 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2929b5156a.webp?v=wide-20260829" alt="夏の長谷寺・あじさい回廊 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夏の長谷寺・あじさい回廊</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-57a8363875.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-57a8363875.webp?v=wide-20260829" alt="春の奈良・東大寺 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-57a8363875.webp?v=wide-20260829" alt="春の奈良・東大寺 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春の奈良・東大寺</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-15de3e5901.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-15de3e5901.webp?v=wide-20260829" alt="冬の白川郷・合掌造りの雪夜 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-15de3e5901.webp?v=wide-20260829" alt="冬の白川郷・合掌造りの雪夜 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>冬の白川郷・合掌造りの雪夜</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-861c932906.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-861c932906.webp?v=wide-20260829" alt="秋の嵐山・渡月橋 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-861c932906.webp?v=wide-20260829" alt="秋の嵐山・渡月橋 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋の嵐山・渡月橋</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-57de451053.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-57de451053.webp?v=wide-20260829" alt="江戸・隅田川の花火大会 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-57de451053.webp?v=wide-20260829" alt="江戸・隅田川の花火大会 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>江戸・隅田川の花火大会</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-196459cb7f.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-196459cb7f.webp?v=wide-20260829" alt="京都・伏見稲荷の千本鳥居 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-196459cb7f.webp?v=wide-20260829" alt="京都・伏見稲荷の千本鳥居 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>京都・伏見稲荷の千本鳥居</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-2269975ee2.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2269975ee2.webp?v=wide-20260829" alt="冬の雪の五重塔 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2269975ee2.webp?v=wide-20260829" alt="冬の雪の五重塔 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>冬の雪の五重塔</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-3d28d10ade.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-3d28d10ade.webp?v=wide-20260829" alt="秋の嵐山 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-3d28d10ade.webp?v=wide-20260829" alt="秋の嵐山 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋の嵐山</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-642b2d9f82.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-642b2d9f82.webp?v=wide-20260829" alt="真夏の農村 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-642b2d9f82.webp?v=wide-20260829" alt="真夏の農村 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>真夏の農村</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-97385d1083.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-97385d1083.webp?v=wide-20260829" alt="初夏の藤棚 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-97385d1083.webp?v=wide-20260829" alt="初夏の藤棚 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>初夏の藤棚</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-2de46e656f.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2de46e656f.webp?v=wide-20260829" alt="冬の雪見温泉 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2de46e656f.webp?v=wide-20260829" alt="冬の雪見温泉 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>冬の雪見温泉</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/2-2d533cda7f.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/2-2d533cda7f.webp?v=wide-20260829" alt="春の宿場町2 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/2-2d533cda7f.webp?v=wide-20260829" alt="春の宿場町2 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春の宿場町2</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-8a6a815361.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-8a6a815361.webp?v=wide-20260829" alt="秋の月見 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-8a6a815361.webp?v=wide-20260829" alt="秋の月見 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋の月見</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-719366a58b.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-719366a58b.webp?v=wide-20260829" alt="梅雨の紫陽花 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-719366a58b.webp?v=wide-20260829" alt="梅雨の紫陽花 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>梅雨の紫陽花</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-fcf2300f29.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-fcf2300f29.webp?v=wide-20260829" alt="早春のしだれ梅 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-fcf2300f29.webp?v=wide-20260829" alt="早春のしだれ梅 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>早春のしだれ梅</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-9a9114cb69.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-9a9114cb69.webp?v=wide-20260829" alt="夏祭りの夜 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-9a9114cb69.webp?v=wide-20260829" alt="夏祭りの夜 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夏祭りの夜</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-0b898b7a84.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-0b898b7a84.webp?v=wide-20260829" alt="初冬の竹林 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-0b898b7a84.webp?v=wide-20260829" alt="初冬の竹林 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>初冬の竹林</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-47b8ac7dc7.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-47b8ac7dc7.webp?v=wide-20260829" alt="秋の収穫時の農村 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-47b8ac7dc7.webp?v=wide-20260829" alt="秋の収穫時の農村 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋の収穫時の農村</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-6e8057aa13.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-6e8057aa13.webp?v=wide-20260829" alt="春の桜吹雪 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-6e8057aa13.webp?v=wide-20260829" alt="春の桜吹雪 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春の桜吹雪</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-3e0ff9aeb6.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-3e0ff9aeb6.webp?v=wide-20260829" alt="朝霧の蓮池に咲く蓮 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-3e0ff9aeb6.webp?v=wide-20260829" alt="朝霧の蓮池に咲く蓮 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>朝霧の蓮池に咲く蓮</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-728f6faea4.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-728f6faea4.webp?v=wide-20260829" alt="冬の雪の夜の京都 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-728f6faea4.webp?v=wide-20260829" alt="冬の雪の夜の京都 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>冬の雪の夜の京都</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-26821b2c2a.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-26821b2c2a.webp?v=wide-20260829" alt="秋の神楽殿 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-26821b2c2a.webp?v=wide-20260829" alt="秋の神楽殿 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋の神楽殿</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-250f044ebc.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-250f044ebc.webp?v=wide-20260829" alt="真夏の縁側 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-250f044ebc.webp?v=wide-20260829" alt="真夏の縁側 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>真夏の縁側</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-62af9f0a33.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-62af9f0a33.webp?v=wide-20260829" alt="春の宿場町 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-62af9f0a33.webp?v=wide-20260829" alt="春の宿場町 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春の宿場町</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-8b68791c01.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-8b68791c01.webp?v=wide-20260829" alt="冬の終わりの梅の花 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-8b68791c01.webp?v=wide-20260829" alt="冬の終わりの梅の花 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>冬の終わりの梅の花</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-78a36159d7.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-78a36159d7.webp?v=wide-20260829" alt="初秋の夕暮れ thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-78a36159d7.webp?v=wide-20260829" alt="初秋の夕暮れ thumbnail" loading="lazy" width="480" height="270"></span>
         <span>初秋の夕暮れ</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-2b06754278.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2b06754278.webp?v=wide-20260829" alt="初夏の藤の花 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2b06754278.webp?v=wide-20260829" alt="初夏の藤の花 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>初夏の藤の花</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-41692dfb0c.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-41692dfb0c.webp?v=wide-20260829" alt="秋の渓谷 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-41692dfb0c.webp?v=wide-20260829" alt="秋の渓谷 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋の渓谷</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-13f404eab2.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-13f404eab2.webp?v=wide-20260829" alt="冬の城下町 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-13f404eab2.webp?v=wide-20260829" alt="冬の城下町 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>冬の城下町</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-ab12f3c852.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-ab12f3c852.webp?v=wide-20260829" alt="蛍が飛び交う月夜の温泉宿 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-ab12f3c852.webp?v=wide-20260829" alt="蛍が飛び交う月夜の温泉宿 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>蛍が飛び交う月夜の温泉宿</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-2ea6116f25.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2ea6116f25.webp?v=wide-20260829" alt="春の朝の桜 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2ea6116f25.webp?v=wide-20260829" alt="春の朝の桜 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春の朝の桜</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-c83e906c17.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-c83e906c17.webp?v=wide-20260829" alt="秋の夕暮れ thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-c83e906c17.webp?v=wide-20260829" alt="秋の夕暮れ thumbnail" loading="lazy" width="480" height="270"></span>
         <span>秋の夕暮れ</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-2eeb3840aa.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2eeb3840aa.webp?v=wide-20260829" alt="夏の竹林 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2eeb3840aa.webp?v=wide-20260829" alt="夏の竹林 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>夏の竹林</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-2125ab657e.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2125ab657e.webp?v=wide-20260829" alt="雪が降る夕暮れの神社 thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-2125ab657e.webp?v=wide-20260829" alt="雪が降る夕暮れの神社 thumbnail" loading="lazy" width="480" height="270"></span>
         <span>雪が降る夕暮れの神社</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-c3f2c6e9c1.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-c3f2c6e9c1.webp?v=wide-20260829" alt="春の桜バージョン thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-c3f2c6e9c1.webp?v=wide-20260829" alt="春の桜バージョン thumbnail" loading="lazy" width="480" height="270"></span>
         <span>春の桜バージョン</span>
       </a>
       <a class="card" href="../artworks/japanese-women-and-the-scenery/artwork-1569cb750c.html">
-        <img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-1569cb750c.webp?v=wide-20260829" alt="川と橋のある江戸の町並み thumbnail" loading="lazy" width="480" height="270">
+        <span class="thumb-frame"><img src="../../images/thumbnails/japanese-women-and-the-scenery/artwork-1569cb750c.webp?v=wide-20260829" alt="川と橋のある江戸の町並み thumbnail" loading="lazy" width="480" height="270"></span>
         <span>川と橋のある江戸の町並み</span>
       </a>
     </section>
