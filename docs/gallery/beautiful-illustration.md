@@ -6,6 +6,16 @@ Search-ready thumbnail gallery for Beautiful illustration / 美麗イラスト. 
 
 ## Works
 
+- [黄昏の魔法図書館の麗しき魔女](../artworks/beautiful-illustration/artwork-9ffd624a74.html)
+  ![黄昏の魔法図書館の麗しき魔女 thumbnail](../../images/thumbnails/beautiful-illustration/artwork-9ffd624a74.webp)
+- [蓮華の夢、夕映えの幻想郷](../artworks/beautiful-illustration/artwork-22bf345e97.html)
+  ![蓮華の夢、夕映えの幻想郷 thumbnail](../../images/thumbnails/beautiful-illustration/artwork-22bf345e97.webp)
+- [月下の宴、紫煌めく幻想都市](../artworks/beautiful-illustration/artwork-e9b1cb0764.html)
+  ![月下の宴、紫煌めく幻想都市 thumbnail](../../images/thumbnails/beautiful-illustration/artwork-e9b1cb0764.webp)
+- [星屑舞う幻想宮殿の麗人](../artworks/beautiful-illustration/artwork-8001a0bce8.html)
+  ![星屑舞う幻想宮殿の麗人 thumbnail](../../images/thumbnails/beautiful-illustration/artwork-8001a0bce8.webp)
+- [幻想の藤簾庭園と舞う蝶](../artworks/beautiful-illustration/artwork-336034019c.html)
+  ![幻想の藤簾庭園と舞う蝶 thumbnail](../../images/thumbnails/beautiful-illustration/artwork-336034019c.webp)
 - [月夜に咲く美麗幻想郷](../artworks/beautiful-illustration/artwork-3cc4d4f238.html)
   ![月夜に咲く美麗幻想郷 thumbnail](../../images/thumbnails/beautiful-illustration/artwork-3cc4d4f238.webp)
 - [水底の聖堂と輝く美麗の舞姫](../artworks/beautiful-illustration/artwork-534f23c162.html)

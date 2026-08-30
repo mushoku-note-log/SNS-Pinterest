@@ -6,6 +6,16 @@ Search-ready thumbnail gallery for Beautiful Japan / 美麗日本. Each page inc
 
 ## Works
 
+- [春の山里、桜とせせらぎ](../artworks/beautiful-japan/artwork-8f5dd527ab.html)
+  ![春の山里、桜とせせらぎ thumbnail](../../images/thumbnails/beautiful-japan/artwork-8f5dd527ab.webp)
+- [桜咲く渓谷と朱橋の春景](../artworks/beautiful-japan/artwork-0f83d57b89.html)
+  ![桜咲く渓谷と朱橋の春景 thumbnail](../../images/thumbnails/beautiful-japan/artwork-0f83d57b89.webp)
+- [春霞に包まれた古都の舟旅](../artworks/beautiful-japan/artwork-c38fb8a9f9.html)
+  ![春霞に包まれた古都の舟旅 thumbnail](../../images/thumbnails/beautiful-japan/artwork-c38fb8a9f9.webp)
+- [桜と海を望む墨絵の絶景](../artworks/beautiful-japan/artwork-517930719c.html)
+  ![桜と海を望む墨絵の絶景 thumbnail](../../images/thumbnails/beautiful-japan/artwork-517930719c.webp)
+- [桜霞に佇む墨絵の渓谷](../artworks/beautiful-japan/artwork-2872336fb5.html)
+  ![桜霞に佇む墨絵の渓谷 thumbnail](../../images/thumbnails/beautiful-japan/artwork-2872336fb5.webp)
 - [雪景色の入り江と冬陽](../artworks/beautiful-japan/artwork-ea2e8cd108.html)
   ![雪景色の入り江と冬陽 thumbnail](../../images/thumbnails/beautiful-japan/artwork-ea2e8cd108.webp)
 - [雪化粧の山里と赤い橋](../artworks/beautiful-japan/artwork-b46c079344.html)

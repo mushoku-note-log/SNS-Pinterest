@@ -6,6 +6,16 @@ Search-ready thumbnail gallery for 3D Watercolor – Noble Pastel / 立体水彩
 
 ## Works
 
+- [桜風に輝く麗しき花園の歌](../artworks/3d-watercolor-noble-pastel/artwork-8b8e3e4551.html)
+  ![桜風に輝く麗しき花園の歌 thumbnail](../../images/thumbnails/3d-watercolor-noble-pastel/artwork-8b8e3e4551.webp)
+- [陽光に咲く花園のティータイム](../artworks/3d-watercolor-noble-pastel/artwork-1e195dc86c.html)
+  ![陽光に咲く花園のティータイム thumbnail](../../images/thumbnails/3d-watercolor-noble-pastel/artwork-1e195dc86c.webp)
+- [月夜の花庭園と麗しき祈り](../artworks/3d-watercolor-noble-pastel/artwork-af237e4d6d.html)
+  ![月夜の花庭園と麗しき祈り thumbnail](../../images/thumbnails/3d-watercolor-noble-pastel/artwork-af237e4d6d.webp)
+- [翠光のシンフォニー](../artworks/3d-watercolor-noble-pastel/artwork-01da25bbb9.html)
+  ![翠光のシンフォニー thumbnail](../../images/thumbnails/3d-watercolor-noble-pastel/artwork-01da25bbb9.webp)
+- [桜吹雪に舞う幻想の美麗姫](../artworks/3d-watercolor-noble-pastel/artwork-31e10e6772.html)
+  ![桜吹雪に舞う幻想の美麗姫 thumbnail](../../images/thumbnails/3d-watercolor-noble-pastel/artwork-31e10e6772.webp)
 - [風花のメロディ、光の庭園](../artworks/3d-watercolor-noble-pastel/artwork-7586957ddf.html)
   ![風花のメロディ、光の庭園 thumbnail](../../images/thumbnails/3d-watercolor-noble-pastel/artwork-7586957ddf.webp)
 - [潮風に咲く紫髪の幻想譚](../artworks/3d-watercolor-noble-pastel/artwork-f229199311.html)

@@ -6,6 +6,16 @@ Search-ready thumbnail gallery for Japanese-style illustration / 和風美麗イ
 
 ## Works
 
+- [湖畔に咲く夏祭りの灯り](../artworks/japanese-style-illustration/artwork-e3e379acc6.html)
+  ![湖畔に咲く夏祭りの灯り thumbnail](../../images/thumbnails/japanese-style-illustration/artwork-e3e379acc6.webp)
+- [清流と花咲く神社の小径](../artworks/japanese-style-illustration/artwork-cf90941733.html)
+  ![清流と花咲く神社の小径 thumbnail](../../images/thumbnails/japanese-style-illustration/artwork-cf90941733.webp)
+- [紫陽花の庭と富士を望む池泉庭園](../artworks/japanese-style-illustration/artwork-1e5f5f8360.html)
+  ![紫陽花の庭と富士を望む池泉庭園 thumbnail](../../images/thumbnails/japanese-style-illustration/artwork-1e5f5f8360.webp)
+- [紫陽花の朝、風鈴と富士](../artworks/japanese-style-illustration/artwork-6a4a103d92.html)
+  ![紫陽花の朝、風鈴と富士 thumbnail](../../images/thumbnails/japanese-style-illustration/artwork-6a4a103d92.webp)
+- [柳影に佇む美麗な水郷](../artworks/japanese-style-illustration/artwork-9c04bf2ef2.html)
+  ![柳影に佇む美麗な水郷 thumbnail](../../images/thumbnails/japanese-style-illustration/artwork-9c04bf2ef2.webp)
 - [藤影の書と富士を望む寺院](../artworks/japanese-style-illustration/artwork-9e1c5b848d.html)
   ![藤影の書と富士を望む寺院 thumbnail](../../images/thumbnails/japanese-style-illustration/artwork-9e1c5b848d.webp)
 - [桜舞う海辺の古都坂道](../artworks/japanese-style-illustration/artwork-3dbc31a8ce.html)

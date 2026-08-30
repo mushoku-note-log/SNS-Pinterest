@@ -6,6 +6,18 @@ Search-ready thumbnail gallery for Beautiful female-type Gothic robot / 女型�
 
 ## Works
 
+- [星霊機兵アルテミア・ルクレシア](../artworks/beautiful-female-type-gothic-robot/artwork-af5fe41416.html)
+  ![星霊機兵アルテミア・ルクレシア thumbnail](../../images/thumbnails/beautiful-female-type-gothic-robot/artwork-af5fe41416.webp)
+- [紫光の戦乙女、アメシスト・レクイエム](../artworks/beautiful-female-type-gothic-robot/artwork-d065cde9bb.html)
+  ![紫光の戦乙女、アメシスト・レクイエム thumbnail](../../images/thumbnails/beautiful-female-type-gothic-robot/artwork-d065cde9bb.webp)
+- [美麗セラフィム・アルヴィス降臨](../artworks/beautiful-female-type-gothic-robot/artwork-af39d4b13a.html)
+  ![美麗セラフィム・アルヴィス降臨 thumbnail](../../images/thumbnails/beautiful-female-type-gothic-robot/artwork-af39d4b13a.webp)
+- [紫煌の天穹騎士ルクシア](../artworks/beautiful-female-type-gothic-robot/artwork-939e520ca6.html)
+  ![紫煌の天穹騎士ルクシア thumbnail](../../images/thumbnails/beautiful-female-type-gothic-robot/artwork-939e520ca6.webp)
+- [星環の機奏譚——空都の天翔騎士](../artworks/beautiful-female-type-gothic-robot/artwork-b34cca0bd6.html)
+  ![星環の機奏譚——空都の天翔騎士 thumbnail](../../images/thumbnails/beautiful-female-type-gothic-robot/artwork-b34cca0bd6.webp)
+- [星彩の機奏譚：エリュシア・ヴァルレイン](../artworks/beautiful-female-type-gothic-robot/artwork-39a5cc7ad2.html)
+  ![星彩の機奏譚：エリュシア・ヴァルレイン thumbnail](../../images/thumbnails/beautiful-female-type-gothic-robot/artwork-39a5cc7ad2.webp)
 - [輝剣のルミナス・エーテリア](../artworks/beautiful-female-type-gothic-robot/artwork-02edb1d900.html)
   ![輝剣のルミナス・エーテリア thumbnail](../../images/thumbnails/beautiful-female-type-gothic-robot/artwork-02edb1d900.webp)
 - [紫煌の天使機、星都に舞う](../artworks/beautiful-female-type-gothic-robot/artwork-4760a0d6f8.html)
