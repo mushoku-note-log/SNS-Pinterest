@@ -24,6 +24,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 65 thumbnails
 - [Japanese Scenery / 日本の景色](gallery/japanese-scenery.md) - 160 thumbnails
 - [Japanese-style illustration / 和風美麗イラスト](gallery/japanese-style-illustration.md) - 133 thumbnails
+- [Japanese Scenery / 日本の景色](gallery/japanese-scenery.md) - 210 free stock thumbnails, commercial use allowed
 - [Japanese women and the scenery / 日本女性と景色](gallery/japanese-women-and-the-scenery.md) - 95 thumbnails
 - [Nishikigoi Exquisite Art / 錦鯉 美麗アート](gallery/nishikigoi-exquisite-art.md) - 25 thumbnails
 - [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 208 thumbnails
@@ -39,7 +40,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 
 ## Publishing Notes
 
-- Source scope: `D:\AI共創ラボ\illustration\<genre>\投稿済み原画\`
+- Source scope: `D:\AI共創ラボ\illustration\<genre>\投稿済み原画\`; Japanese Scenery uses `D:\AI共創ラボ\illustration\Japanese Scenery  日本の景色\投稿済み\`
 - Excluded: genre-root unposted images and `upscayl_png_upscayl-standard-4x_2x`
 - Thumbnail format: WebP, max 480 x 480px
 - Full-resolution sales direction: Patreon
