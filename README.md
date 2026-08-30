@@ -19,6 +19,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Beautiful waterliquid / 美麗 水・液体](docs/gallery/beautiful-waterliquid.md) - 69 thumbnails
 - [Bonsai Wabisabi / 盆栽・侘寂](docs/gallery/bonsai-wabisabi.md) - 25 thumbnails
 - [Character Sheet / キャラクターシート](docs/gallery/character-sheet.md) - 50 thumbnails
+- [Detailed Character Sheet / 詳細版キャラクターシート](docs/gallery/detailed-character-sheet.md) - 25 thumbnails
 - [Exquisite embroidery / 美麗刺繍](docs/gallery/exquisite-embroidery.md) - 71 thumbnails
 - [Exquisite Paper Craft / 美麗紙工芸](docs/gallery/exquisite-paper-craft.md) - 61 thumbnails
 - [Exquisite Plush Toy / 美麗ぬいぐるみ](docs/gallery/exquisite-plush-toy.md) - 78 thumbnails
