@@ -23,11 +23,11 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Exquisite Plush Toy / 美麗ぬいぐるみ](gallery/exquisite-plush-toy.md) - 78 thumbnails
 - [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 65 thumbnails
 - [Japanese Scenery / 日本の景色](gallery/japanese-scenery.md) - 160 thumbnails
-- [Japanese-style illustration / 和風美麗イラスト](gallery/japanese-style-illustration.md) - 108 thumbnails
+- [Japanese-style illustration / 和風美麗イラスト](gallery/japanese-style-illustration.md) - 133 thumbnails
 - [Japanese women and the scenery / 日本女性と景色](gallery/japanese-women-and-the-scenery.md) - 95 thumbnails
 - [Nishikigoi Exquisite Art / 錦鯉 美麗アート](gallery/nishikigoi-exquisite-art.md) - 25 thumbnails
 - [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 208 thumbnails
-- [Stunning Gothic Robot / 美麗ゴシックロボット](gallery/stunning-gothic-robot.md) - 88 thumbnails
+- [Stunning Gothic Robot / 美麗ゴシックロボット](gallery/stunning-gothic-robot.md) - 118 thumbnails
 - [Cat Manga / 猫漫画](gallery/cat-manga.md) - 109 thumbnails
 - [science manga / サイエンス漫画](gallery/science-manga.md) - 36 thumbnails
 - [Youth romantic comedy manga / 青春ラブコメ漫画](gallery/youth-romantic-comedy-manga.md) - 50 thumbnails
