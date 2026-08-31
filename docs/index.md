@@ -20,7 +20,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Bonsai Wabisabi / 盆栽・侘寂](gallery/bonsai-wabisabi.md) - 25 thumbnails
 - [Character Sheet / キャラクターシート](gallery/character-sheet.md) - 150 thumbnails
 - [Detailed Character Sheet / 詳細版キャラクターシート](gallery/detailed-character-sheet.md) - 100 thumbnails
-- [Exquisite embroidery / 美麗刺繍](gallery/exquisite-embroidery.md) - 71 thumbnails
+- [Exquisite embroidery / 美麗刺繍](gallery/exquisite-embroidery.md) - 96 thumbnails
 - [Exquisite Paper Craft / 美麗紙工芸](gallery/exquisite-paper-craft.md) - 61 thumbnails
 - [Exquisite Plush Toy / 美麗ぬいぐるみ](gallery/exquisite-plush-toy.md) - 78 thumbnails
 - [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 91 thumbnails
@@ -28,7 +28,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Japanese-style illustration / 和風美麗イラスト](gallery/japanese-style-illustration.md) - 133 thumbnails
 - [Japanese women and the scenery / 日本女性と景色](gallery/japanese-women-and-the-scenery.md) - 145 thumbnails
 - [Nishikigoi Exquisite Art / 錦鯉 美麗アート](gallery/nishikigoi-exquisite-art.md) - 25 thumbnails
-- [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 208 thumbnails
+- [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 233 thumbnails
 - [Stunning Gothic Robot / 美麗ゴシックロボット](gallery/stunning-gothic-robot.md) - 118 thumbnails
 - [Cat Manga / 猫漫画](gallery/cat-manga.md) - 109 thumbnails
 - [science manga / サイエンス漫画](gallery/science-manga.md) - 36 thumbnails
