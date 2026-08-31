@@ -2,7 +2,7 @@
 
 ![taisho_girl_bay_view - Japanese women and the scenery thumbnail](../../../images/thumbnails/japanese-women-and-the-scenery/taisho-girl-bay-view-60719607c3.webp)
 
-taisho_girl_bay_view - This preview is from a logo-free commercial-use AI material collection. Logo-free commercial-use AI material collection. Commercial use is allowed. Edited derivative use is allowed. Reselling, redistributing, re-uploading, stock/NFT/POD registration, claiming authorship, AI training, or dataset redistribution of the unmodified material itself is prohibited. / 美麗ロゴなしの商用利用可能AI素材集のプレビューです。美麗ロゴなしの商用利用可能AI素材集です。商用利用可。加工・編集した制作物への利用も可能です。ただし、素材そのまま、または実質的に未改変のままの転売、再配布、無断アップロード、ストック素材・NFT・POD登録、自作発言、AI学習素材やデータセットとしての再配布は禁止します。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #JapanIllustration #WabiSabi
+taisho_girl_bay_viewは、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは日本女性と景色 / Japanese women and the scenery。GitHub Pages上の検索向けプレビューとして、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #JapanIllustration #WabiSabi
 
 ## Artwork Metadata
 

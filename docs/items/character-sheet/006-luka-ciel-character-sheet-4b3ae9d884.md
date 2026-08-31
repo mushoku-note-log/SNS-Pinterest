@@ -2,7 +2,7 @@
 
 ![006_luka_ciel_character_sheet - Character Sheet thumbnail](../../../images/thumbnails/character-sheet/006-luka-ciel-character-sheet-4b3ae9d884.webp)
 
-006_luka_ciel_character_sheet - This preview is from a logo-free anime-style character sheet collection created with MetaAI. Logo-free commercial-use AI material collection. Commercial use is allowed. Edited derivative use is allowed. Reselling, redistributing, re-uploading, stock/NFT/POD registration, claiming authorship, AI training, or dataset redistribution of the unmodified material itself is prohibited. / MetaAIで制作した、ロゴなしアニメ調キャラクターシート集のプレビューです。美麗ロゴなしの商用利用可能AI素材集です。商用利用可。加工・編集した制作物への利用も可能です。ただし、素材そのまま、または実質的に未改変のままの転売、再配布、無断アップロード、ストック素材・NFT・POD登録、自作発言、AI学習素材やデータセットとしての再配布は禁止します。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery
+006_luka_ciel_character_sheetは、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルはキャラクターシート / Character Sheet。GitHub Pages上の検索向けプレビューとして、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery
 
 ## Artwork Metadata
 
