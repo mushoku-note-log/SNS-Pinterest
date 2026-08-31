@@ -6,6 +6,16 @@ Search-ready thumbnail gallery for Beautiful Silhouette Art & Glowing Line Art /
 
 ## Works
 
+- [蒼き神域と黄金の巫女](../artworks/beautiful-silhouette-art-and-glowing-line-art/artwork-5ef82c4105.html)
+  ![蒼き神域と黄金の巫女 thumbnail](../../images/thumbnails/beautiful-silhouette-art-and-glowing-line-art/artwork-5ef82c4105.webp)
+- [ネオン輝く神話の聖域と天樹](../artworks/beautiful-silhouette-art-and-glowing-line-art/artwork-968d6466ce.html)
+  ![ネオン輝く神話の聖域と天樹 thumbnail](../../images/thumbnails/beautiful-silhouette-art-and-glowing-line-art/artwork-968d6466ce.webp)
+- [ネオン輝く幻想神域と鎮魂の巫女](../artworks/beautiful-silhouette-art-and-glowing-line-art/artwork-658ee26795.html)
+  ![ネオン輝く幻想神域と鎮魂の巫女 thumbnail](../../images/thumbnails/beautiful-silhouette-art-and-glowing-line-art/artwork-658ee26795.webp)
+- [ネオン輝く神代の祭祀場と巫者](../artworks/beautiful-silhouette-art-and-glowing-line-art/artwork-29407f097d.html)
+  ![ネオン輝く神代の祭祀場と巫者 thumbnail](../../images/thumbnails/beautiful-silhouette-art-and-glowing-line-art/artwork-29407f097d.webp)
+- [黄泉の森と祀神の巫女](../artworks/beautiful-silhouette-art-and-glowing-line-art/artwork-a5a3b10dd6.html)
+  ![黄泉の森と祀神の巫女 thumbnail](../../images/thumbnails/beautiful-silhouette-art-and-glowing-line-art/artwork-a5a3b10dd6.webp)
 - [黄泉比良坂、光輝く神域](../artworks/beautiful-silhouette-art-and-glowing-line-art/artwork-0a73b9c561.html)
   ![黄泉比良坂、光輝く神域 thumbnail](../../images/thumbnails/beautiful-silhouette-art-and-glowing-line-art/artwork-0a73b9c561.webp)
 - [神代の常世ノ森、美麗なる守護者](../artworks/beautiful-silhouette-art-and-glowing-line-art/artwork-c695638dc9.html)

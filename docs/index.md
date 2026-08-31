@@ -6,28 +6,28 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 
 ## Gallery Index
 
-- [2.5D illustration of a woman in a kimono / 2.5D着物女性イラスト](gallery/2-5d-illustration-of-a-woman-in-a-kimono.md) - 112 thumbnails
+- [2.5D illustration of a woman in a kimono / 2.5D着物女性イラスト](gallery/2-5d-illustration-of-a-woman-in-a-kimono.md) - 118 thumbnails
 - [3D Watercolor – Noble Pastel / 立体水彩・ノーブルパステル](gallery/3d-watercolor-noble-pastel.md) - 167 thumbnails
-- [Bamboo Lanterns with Openwork Carving / 竹灯り・透かし彫りアート](gallery/bamboo-lanterns-with-openwork-carving.md) - 56 thumbnails
+- [Bamboo Lanterns with Openwork Carving / 竹灯り・透かし彫りアート](gallery/bamboo-lanterns-with-openwork-carving.md) - 60 thumbnails
 - [Beautiful 2.5D art / 2.5D美麗アート](gallery/beautiful-2-5d-art.md) - 91 thumbnails
 - [Beautiful female-type Gothic robot / 女型美麗ゴシックロボット](gallery/beautiful-female-type-gothic-robot.md) - 127 thumbnails
 - [Beautiful illustration / 美麗イラスト](gallery/beautiful-illustration.md) - 245 thumbnails
-- [Beautiful Japan / 美麗日本](gallery/beautiful-japan.md) - 55 thumbnails
+- [Beautiful Japan / 美麗日本](gallery/beautiful-japan.md) - 60 thumbnails
 - [Beautiful modeling clay / 美麗クレイ粘土](gallery/beautiful-modeling-clay.md) - 66 thumbnails
-- [Beautiful Silhouette Art & Glowing Line Art / 美麗影絵・発光ラインアート](gallery/beautiful-silhouette-art-and-glowing-line-art.md) - 70 thumbnails
+- [Beautiful Silhouette Art & Glowing Line Art / 美麗影絵・発光ラインアート](gallery/beautiful-silhouette-art-and-glowing-line-art.md) - 75 thumbnails
 - [Beautiful Steam and Mist / 美麗 蒸気・煙霧](gallery/beautiful-steam-and-mist.md) - 91 thumbnails
 - [Beautiful waterliquid / 美麗 水・液体](gallery/beautiful-waterliquid.md) - 89 thumbnails
-- [Bonsai Wabisabi / 盆栽・侘寂](gallery/bonsai-wabisabi.md) - 35 thumbnails
+- [Bonsai Wabisabi / 盆栽・侘寂](gallery/bonsai-wabisabi.md) - 40 thumbnails
 - [Character Sheet / キャラクターシート](gallery/character-sheet.md) - 150 thumbnails
-- [Detailed Character Sheet / 詳細版キャラクターシート](gallery/detailed-character-sheet.md) - 70 thumbnails
+- [Detailed Character Sheet / 詳細版キャラクターシート](gallery/detailed-character-sheet.md) - 110 thumbnails
 - [Exquisite embroidery / 美麗刺繍](gallery/exquisite-embroidery.md) - 91 thumbnails
 - [Exquisite Paper Craft / 美麗紙工芸](gallery/exquisite-paper-craft.md) - 66 thumbnails
 - [Exquisite Plush Toy / 美麗ぬいぐるみ](gallery/exquisite-plush-toy.md) - 93 thumbnails
-- [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 117 thumbnails
+- [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 125 thumbnails
 - [Japanese Scenery / 日本の景色](gallery/japanese-scenery.md) - 210 thumbnails
 - [Japanese-style illustration / 和風美麗イラスト](gallery/japanese-style-illustration.md) - 138 thumbnails
 - [Japanese women and the scenery / 日本女性と景色](gallery/japanese-women-and-the-scenery.md) - 145 thumbnails
-- [Nishikigoi Exquisite Art / 錦鯉 美麗アート](gallery/nishikigoi-exquisite-art.md) - 35 thumbnails
+- [Nishikigoi Exquisite Art / 錦鯉 美麗アート](gallery/nishikigoi-exquisite-art.md) - 40 thumbnails
 - [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 228 thumbnails
 - [Stunning Gothic Robot / 美麗ゴシックロボット](gallery/stunning-gothic-robot.md) - 128 thumbnails
 - [Cat Manga / 猫漫画](gallery/cat-manga.md) - 109 thumbnails

@@ -6,6 +6,16 @@ Search-ready thumbnail gallery for Beautiful Japan / 美麗日本. Each page inc
 
 ## Works
 
+- [霧の湾を望む墨彩山水](../artworks/beautiful-japan/artwork-c9397e28c2.html)
+  ![霧の湾を望む墨彩山水 thumbnail](../../images/thumbnails/beautiful-japan/artwork-c9397e28c2.webp)
+- [美麗な避暑の渓流亭](../artworks/beautiful-japan/artwork-41349fd2a7.html)
+  ![美麗な避暑の渓流亭 thumbnail](../../images/thumbnails/beautiful-japan/artwork-41349fd2a7.webp)
+- [霧深き山峡と涼瀑の茶亭](../artworks/beautiful-japan/artwork-caa7299787.html)
+  ![霧深き山峡と涼瀑の茶亭 thumbnail](../../images/thumbnails/beautiful-japan/artwork-caa7299787.webp)
+- [霧海に佇む夏の景色](../artworks/beautiful-japan/artwork-5bcbb9d4b0.html)
+  ![霧海に佇む夏の景色 thumbnail](../../images/thumbnails/beautiful-japan/artwork-5bcbb9d4b0.webp)
+- [夏風そよぐ水郷と竹林](../artworks/beautiful-japan/artwork-47a1618b8c.html)
+  ![夏風そよぐ水郷と竹林 thumbnail](../../images/thumbnails/beautiful-japan/artwork-47a1618b8c.webp)
 - [春の山里、桜とせせらぎ](../artworks/beautiful-japan/artwork-8f5dd527ab.html)
   ![春の山里、桜とせせらぎ thumbnail](../../images/thumbnails/beautiful-japan/artwork-8f5dd527ab.webp)
 - [桜咲く渓谷と朱橋の春景](../artworks/beautiful-japan/artwork-0f83d57b89.html)

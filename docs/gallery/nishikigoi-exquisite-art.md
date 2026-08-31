@@ -6,6 +6,16 @@ Search-ready thumbnail gallery for Nishikigoi Exquisite Art / 錦鯉 美麗ア�
 
 ## Works
 
+- [美麗な碧湖と泳ぐ錦鯉](../artworks/nishikigoi-exquisite-art/artwork-32eec24f27.html)
+  ![美麗な碧湖と泳ぐ錦鯉 thumbnail](../../images/thumbnails/nishikigoi-exquisite-art/artwork-32eec24f27.webp)
+- [琵琶湖の朝彩と泳ぐ錦鯉](../artworks/nishikigoi-exquisite-art/artwork-5945863854.html)
+  ![琵琶湖の朝彩と泳ぐ錦鯉 thumbnail](../../images/thumbnails/nishikigoi-exquisite-art/artwork-5945863854.webp)
+- [霧湖に泳ぐ錦鯉](../artworks/nishikigoi-exquisite-art/artwork-a2fe7fd99b.html)
+  ![霧湖に泳ぐ錦鯉 thumbnail](../../images/thumbnails/nishikigoi-exquisite-art/artwork-a2fe7fd99b.webp)
+- [美麗な朝靄の湖と錦鯉](../artworks/nishikigoi-exquisite-art/artwork-5759a5f388.html)
+  ![美麗な朝靄の湖と錦鯉 thumbnail](../../images/thumbnails/nishikigoi-exquisite-art/artwork-5759a5f388.webp)
+- [桜富士と水中錦鯉の湖景](../artworks/nishikigoi-exquisite-art/artwork-f5445dbcd1.html)
+  ![桜富士と水中錦鯉の湖景 thumbnail](../../images/thumbnails/nishikigoi-exquisite-art/artwork-f5445dbcd1.webp)
 - [美麗な睡蓮庭園と錦鯉の池](../artworks/nishikigoi-exquisite-art/artwork-bc4ed4158f.html)
   ![美麗な睡蓮庭園と錦鯉の池 thumbnail](../../images/thumbnails/nishikigoi-exquisite-art/artwork-bc4ed4158f.webp)
 - [錦鯉と灯籠の宵祭り幻想景観](../artworks/nishikigoi-exquisite-art/artwork-8d1982c410.html)

@@ -6,6 +6,14 @@ Search-ready thumbnail gallery for Bamboo Lanterns with Openwork Carving / 竹�
 
 ## Works
 
+- [幻想の竹灯籠庭園](../artworks/bamboo-lanterns-with-openwork-carving/artwork-1860cdfa55.html)
+  ![幻想の竹灯籠庭園 thumbnail](../../images/thumbnails/bamboo-lanterns-with-openwork-carving/artwork-1860cdfa55.webp)
+- [星灯りの幻想庭園](../artworks/bamboo-lanterns-with-openwork-carving/artwork-8a109db84f.html)
+  ![星灯りの幻想庭園 thumbnail](../../images/thumbnails/bamboo-lanterns-with-openwork-carving/artwork-8a109db84f.webp)
+- [灯籠が照らす幻想の杜](../artworks/bamboo-lanterns-with-openwork-carving/artwork-055a502107.html)
+  ![灯籠が照らす幻想の杜 thumbnail](../../images/thumbnails/bamboo-lanterns-with-openwork-carving/artwork-055a502107.webp)
+- [月夜に輝く幻想の灯籠庭園](../artworks/bamboo-lanterns-with-openwork-carving/artwork-3b1fe2e3fb.html)
+  ![月夜に輝く幻想の灯籠庭園 thumbnail](../../images/thumbnails/bamboo-lanterns-with-openwork-carving/artwork-3b1fe2e3fb.webp)
 - [星降る幻燈の里](../artworks/bamboo-lanterns-with-openwork-carving/artwork-056f162a2f.html)
   ![星降る幻燈の里 thumbnail](../../images/thumbnails/bamboo-lanterns-with-openwork-carving/artwork-056f162a2f.webp)
 - [星降る竹灯りの庭](../artworks/bamboo-lanterns-with-openwork-carving/artwork-f12c517f64.html)

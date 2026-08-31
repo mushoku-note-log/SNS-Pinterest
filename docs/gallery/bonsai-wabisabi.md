@@ -6,6 +6,16 @@ Search-ready thumbnail gallery for Bonsai Wabisabi / 盆栽・侘寂. Each page 
 
 ## Works
 
+- [錦秋の庭園と盆栽寺院](../artworks/bonsai-wabisabi/artwork-1b15767de5.html)
+  ![錦秋の庭園と盆栽寺院 thumbnail](../../images/thumbnails/bonsai-wabisabi/artwork-1b15767de5.webp)
+- [美麗な庭園の盆栽展](../artworks/bonsai-wabisabi/artwork-4a10e62829.html)
+  ![美麗な庭園の盆栽展 thumbnail](../../images/thumbnails/bonsai-wabisabi/artwork-4a10e62829.webp)
+- [床の間から望む秋の庭](../artworks/bonsai-wabisabi/artwork-2f3d2acd9c.html)
+  ![床の間から望む秋の庭 thumbnail](../../images/thumbnails/bonsai-wabisabi/artwork-2f3d2acd9c.webp)
+- [春霞に映える雅の盆景庭園](../artworks/bonsai-wabisabi/artwork-d3e891639c.html)
+  ![春霞に映える雅の盆景庭園 thumbnail](../../images/thumbnails/bonsai-wabisabi/artwork-d3e891639c.webp)
+- [春庭を望む静かな和室](../artworks/bonsai-wabisabi/artwork-439fa38fd2.html)
+  ![春庭を望む静かな和室 thumbnail](../../images/thumbnails/bonsai-wabisabi/artwork-439fa38fd2.webp)
 - [秋霧に包まれた盆栽庭園展](../artworks/bonsai-wabisabi/artwork-841c6d5131.html)
   ![秋霧に包まれた盆栽庭園展 thumbnail](../../images/thumbnails/bonsai-wabisabi/artwork-841c6d5131.webp)
 - [桜咲く寺庭の盆栽風景](../artworks/bonsai-wabisabi/artwork-8b3d4f104f.html)
