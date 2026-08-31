@@ -6,6 +6,18 @@ Search-ready thumbnail gallery for Beautiful Steam and Mist / 美麗 蒸気・�
 
 ## Works
 
+- [幻想煙景・かぐや姫の月帰り](../artworks/beautiful-steam-and-mist/artwork-40b4014025.html)
+  ![幻想煙景・かぐや姫の月帰り thumbnail](../../images/thumbnails/beautiful-steam-and-mist/artwork-40b4014025.webp)
+- [霧煙の神話、狼と弓使い](../artworks/beautiful-steam-and-mist/artwork-6bf3e6e825.html)
+  ![霧煙の神話、狼と弓使い thumbnail](../../images/thumbnails/beautiful-steam-and-mist/artwork-6bf3e6e825.webp)
+- [煙霧で彩る河童隠れ里の幻想譚](../artworks/beautiful-steam-and-mist/artwork-2ddcd6580d.html)
+  ![煙霧で彩る河童隠れ里の幻想譚 thumbnail](../../images/thumbnails/beautiful-steam-and-mist/artwork-2ddcd6580d.webp)
+- [霧煙に浮かぶ妖怪祭りの町](../artworks/beautiful-steam-and-mist/artwork-c19b4475d3.html)
+  ![霧煙に浮かぶ妖怪祭りの町 thumbnail](../../images/thumbnails/beautiful-steam-and-mist/artwork-c19b4475d3.webp)
+- [霧煙で彩る化け狸の恩返し](../artworks/beautiful-steam-and-mist/artwork-e961fbe313.html)
+  ![霧煙で彩る化け狸の恩返し thumbnail](../../images/thumbnails/beautiful-steam-and-mist/artwork-e961fbe313.webp)
+- [霧煙に浮かぶ龍宮城](../artworks/beautiful-steam-and-mist/artwork-0f88d6d218.html)
+  ![霧煙に浮かぶ龍宮城 thumbnail](../../images/thumbnails/beautiful-steam-and-mist/artwork-0f88d6d218.webp)
 - [光輝く猫の湯けむり温泉宿](../artworks/beautiful-steam-and-mist/artwork-d1de197f5c.html)
   ![光輝く猫の湯けむり温泉宿 thumbnail](../../images/thumbnails/beautiful-steam-and-mist/artwork-d1de197f5c.webp)
 - [煙る夜の妖怪ミニチュア](../artworks/beautiful-steam-and-mist/artwork-a09f178b05.html)

@@ -6,6 +6,16 @@ Search-ready thumbnail gallery for Exquisite Paper Craft / 美麗紙工芸. Each
 
 ## Works
 
+- [桜咲く和風ペーパークラフト山里](../artworks/exquisite-paper-craft/artwork-2ecf2128cc.html)
+  ![桜咲く和風ペーパークラフト山里 thumbnail](../../images/thumbnails/exquisite-paper-craft/artwork-2ecf2128cc.webp)
+- [灯火あふれる桜の港町ディオラマ](../artworks/exquisite-paper-craft/artwork-e9bbf75d95.html)
+  ![灯火あふれる桜の港町ディオラマ thumbnail](../../images/thumbnails/exquisite-paper-craft/artwork-e9bbf75d95.webp)
+- [紙細工の白龍と海上の塔](../artworks/exquisite-paper-craft/artwork-a52479e2df.html)
+  ![紙細工の白龍と海上の塔 thumbnail](../../images/thumbnails/exquisite-paper-craft/artwork-a52479e2df.webp)
+- [月影に浮かぶ紙細工の隠れ里](../artworks/exquisite-paper-craft/artwork-b65dabdcb6.html)
+  ![月影に浮かぶ紙細工の隠れ里 thumbnail](../../images/thumbnails/exquisite-paper-craft/artwork-b65dabdcb6.webp)
+- [紙細工の美麗な神社渓谷巡り](../artworks/exquisite-paper-craft/artwork-84f6b7d209.html)
+  ![紙細工の美麗な神社渓谷巡り thumbnail](../../images/thumbnails/exquisite-paper-craft/artwork-84f6b7d209.webp)
 - [紙細工の幻想郷、山紫水明の隠れ里](../artworks/exquisite-paper-craft/artwork-a495bf3888.html)
   ![紙細工の幻想郷、山紫水明の隠れ里 thumbnail](../../images/thumbnails/exquisite-paper-craft/artwork-a495bf3888.webp)
 - [和紙で彩る藤香る里の風景](../artworks/exquisite-paper-craft/artwork-30f59164f0.html)

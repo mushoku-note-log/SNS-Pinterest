@@ -6,6 +6,8 @@ Search-ready thumbnail gallery for 2.5D illustration of a woman in a kimono / 2.
 
 ## Works
 
+- [2.5D着物女性イラスト AI Art Preview 112](../artworks/2-5d-illustration-of-a-woman-in-a-kimono/2-5d-ai-art-preview-112-849be10cd5.html)
+  ![2.5D着物女性イラスト AI Art Preview 112 thumbnail](../../images/thumbnails/2-5d-illustration-of-a-woman-in-a-kimono/2-5d-ai-art-preview-112-849be10cd5.webp)
 - [2.5D着物女性イラスト AI Art Preview 092](../artworks/2-5d-illustration-of-a-woman-in-a-kimono/2-5d-ai-art-preview-092-986aae463d.html)
   ![2.5D着物女性イラスト AI Art Preview 092 thumbnail](../../images/thumbnails/2-5d-illustration-of-a-woman-in-a-kimono/2-5d-ai-art-preview-092-986aae463d.webp)
 - [2.5D着物女性イラスト AI Art Preview 099](../artworks/2-5d-illustration-of-a-woman-in-a-kimono/2-5d-ai-art-preview-099-0356995be7.html)
