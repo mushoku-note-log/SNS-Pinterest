@@ -1,6 +1,6 @@
 # Flat illustration of a woman in a kimono / 着物女性フラットイラスト
 
-Search-ready thumbnail gallery for Flat illustration of a woman in a kimono / 着物女性フラットイラスト. Each page includes a compact preview, searchable description, alt text, hashtags, and a Patreon collection link.
+A logo-free commercial-use AI material collection for Flat illustration of a woman in a kimono / 着物女性フラットイラスト. Commercial use is allowed, but resale, redistribution, re-uploading, and selling the unmodified material itself are prohibited. / 着物女性フラットイラスト / Flat illustration of a woman in a kimono のロゴなし商用利用可能AI素材集です。商用利用可能ですが、素材そのものの転売、再配布、無断アップロード、未加工素材そのものとしての二次販売は禁止します。
 
 [トップギャラリー](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
 

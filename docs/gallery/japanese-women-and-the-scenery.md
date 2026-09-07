@@ -1,6 +1,6 @@
 # Japanese women and the scenery / 日本女性と景色
 
-Search-ready thumbnail gallery for Japanese women and the scenery / 日本女性と景色. Each page includes a compact preview, searchable description, alt text, hashtags, and a Patreon collection link.
+A logo-free commercial-use AI material collection for Japanese women and the scenery / 日本女性と景色. Commercial use is allowed, but resale, redistribution, re-uploading, and selling the unmodified material itself are prohibited. / 日本女性と景色 / Japanese women and the scenery のロゴなし商用利用可能AI素材集です。商用利用可能ですが、素材そのものの転売、再配布、無断アップロード、未加工素材そのものとしての二次販売は禁止します。
 
 [トップギャラリー](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
 

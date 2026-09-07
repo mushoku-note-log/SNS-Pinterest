@@ -2,7 +2,7 @@
 
 ![渓流と青もみじとカワセミ - Japanese Scenery thumbnail](../../../images/thumbnails/japanese-scenery/artwork-96c6f5b3c5.webp)
 
-渓流と青もみじとカワセミは、AICo Creation Labの投稿済み原画アーカイブから作成した軽量サムネイルです。ジャンルは日本の景色 / Japanese Scenery。GitHub Pages上の検索向けプレビューとして、フル解像度作品や有料コレクションへの案内に使えます。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #JapanIllustration #WabiSabi
+渓流と青もみじとカワセミ - This preview is from the Japanese scenery and school-life background collection. Logo-free commercial-use AI material collection. Commercial use is allowed. Edited derivative use is allowed. Reselling, redistributing, re-uploading, stock/NFT/POD registration, claiming authorship, AI training, or dataset redistribution of the unmodified material itself is prohibited. / 日本の景色・学生生活背景コレクションのプレビューです。美麗ロゴなしの商用利用可能AI素材集です。商用利用可。加工・編集した制作物への利用も可能です。ただし、素材そのまま、または実質的に未改変のままの転売、再配布、無断アップロード、ストック素材・NFT・POD登録、自作発言、AI学習素材やデータセットとしての再配布は禁止します。 #AICoCreationLab #AIArt #DigitalArt #JapaneseArt #AIArtGallery #JapanIllustration #WabiSabi
 
 ## Artwork Metadata
 
