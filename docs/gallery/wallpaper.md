@@ -1,6 +1,6 @@
 # Wallpaper / 壁紙
 
-Search-ready thumbnail gallery for Wallpaper / 壁紙. Each page includes a compact preview, searchable description, alt text, hashtags, and a Patreon collection link.
+A logo-free commercial-use AI wallpaper material collection for smartphone backgrounds, vertical visual assets, social media posts, thumbnails, and design references. Commercial use is allowed, but resale, redistribution, re-uploading, and selling the unmodified material itself are prohibited. / スマホ壁紙、縦長ビジュアル素材、SNS投稿、サムネイル、デザイン参考向けのロゴなし商用利用可能AI壁紙素材集です。商用利用可能ですが、素材そのものの転売、再配布、無断アップロード、未加工素材そのものとしての二次販売は禁止します。
 
 [トップギャラリー](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
 
