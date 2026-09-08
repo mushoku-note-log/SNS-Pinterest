@@ -14,7 +14,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Beautiful illustration / 美麗イラスト](docs/gallery/beautiful-illustration.md) - 322 thumbnails
 - [Beautiful Japan / 美麗日本](docs/gallery/beautiful-japan.md) - 101 thumbnails
 - [Beautiful modeling clay / 美麗クレイ粘土](docs/gallery/beautiful-modeling-clay.md) - 112 thumbnails
-- [Beautiful Silhouette Art & Glowing Line Art / 美麗影絵・発光ラインアート](docs/gallery/beautiful-silhouette-art-and-glowing-line-art.md) - 90 thumbnails
+- [Beautiful Silhouette Art & Glowing Line Art / 美麗影絵・発光ラインアート](docs/gallery/beautiful-silhouette-art-and-glowing-line-art.md) - 115 thumbnails
 - [Beautiful Steam and Mist / 美麗 蒸気・煙霧](docs/gallery/beautiful-steam-and-mist.md) - 124 thumbnails
 - [Beautiful waterliquid / 美麗 水・液体](docs/gallery/beautiful-waterliquid.md) - 120 thumbnails
 - [Bonsai Wabisabi / 盆栽・侘寂](docs/gallery/bonsai-wabisabi.md) - 50 thumbnails
@@ -31,6 +31,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Ogura Hyakunin Isshu / 小倉百人一首](docs/gallery/ogura-hyakunin-isshu.md) - 101 thumbnails
 - [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](docs/gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 283 thumbnails
 - [Stunning Gothic Robot / 美麗ゴシックロボット](docs/gallery/stunning-gothic-robot.md) - 175 thumbnails
+- [Wallpaper / 壁紙](docs/gallery/wallpaper.md) - 25 thumbnails
 - [Cat Manga / 猫漫画](docs/gallery/cat-manga.md) - 109 thumbnails
 - [science manga / サイエンス漫画](docs/gallery/science-manga.md) - 36 thumbnails
 - [Youth romantic comedy manga / 青春ラブコメ漫画](docs/gallery/youth-romantic-comedy-manga.md) - 50 thumbnails
