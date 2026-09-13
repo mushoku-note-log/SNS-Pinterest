@@ -7,14 +7,14 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 ## Gallery Index
 
 - [2.5D illustration of a woman in a kimono / 2.5D着物女性イラスト](docs/gallery/2-5d-illustration-of-a-woman-in-a-kimono.md) - 131 thumbnails
-- [3D Watercolor – Noble Pastel / 立体水彩・ノーブルパステル](docs/gallery/3d-watercolor-noble-pastel.md) - 239 thumbnails
+- [3D Watercolor – Noble Pastel / 立体水彩・ノーブルパステル](docs/gallery/3d-watercolor-noble-pastel.md) - 264 thumbnails
 - [Bamboo Lanterns with Openwork Carving / 竹灯り・透かし彫りアート](docs/gallery/bamboo-lanterns-with-openwork-carving.md) - 65 thumbnails
 - [Beautiful 2.5D art / 2.5D美麗アート](docs/gallery/beautiful-2-5d-art.md) - 167 thumbnails
 - [Beautiful female-type Gothic robot / 女型美麗ゴシックロボット](docs/gallery/beautiful-female-type-gothic-robot.md) - 202 thumbnails
 - [Beautiful illustration / 美麗イラスト](docs/gallery/beautiful-illustration.md) - 347 thumbnails
 - [Beautiful Japan / 美麗日本](docs/gallery/beautiful-japan.md) - 101 thumbnails
-- [Beautiful modeling clay / 美麗クレイ粘土](docs/gallery/beautiful-modeling-clay.md) - 112 thumbnails
-- [Beautiful Silhouette Art & Glowing Line Art / 美麗影絵・発光ラインアート](docs/gallery/beautiful-silhouette-art-and-glowing-line-art.md) - 115 thumbnails
+- [Beautiful modeling clay / 美麗クレイ粘土](docs/gallery/beautiful-modeling-clay.md) - 137 thumbnails
+- [Beautiful Silhouette Art & Glowing Line Art / 美麗影絵・発光ラインアート](docs/gallery/beautiful-silhouette-art-and-glowing-line-art.md) - 141 thumbnails
 - [Beautiful Steam and Mist / 美麗 蒸気・煙霧](docs/gallery/beautiful-steam-and-mist.md) - 151 thumbnails
 - [Beautiful waterliquid / 美麗 水・液体](docs/gallery/beautiful-waterliquid.md) - 145 thumbnails
 - [Bonsai Wabisabi / 盆栽・侘寂](docs/gallery/bonsai-wabisabi.md) - 50 thumbnails
