@@ -11,7 +11,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Bamboo Lanterns with Openwork Carving / 竹灯り・透かし彫りアート](gallery/bamboo-lanterns-with-openwork-carving.md) - 65 thumbnails
 - [Beautiful 2.5D art / 2.5D美麗アート](gallery/beautiful-2-5d-art.md) - 167 thumbnails
 - [Beautiful female-type Gothic robot / 女型美麗ゴシックロボット](gallery/beautiful-female-type-gothic-robot.md) - 228 thumbnails
-- [Beautiful illustration / 美麗イラスト](gallery/beautiful-illustration.md) - 347 thumbnails
+- [Beautiful illustration / 美麗イラスト](gallery/beautiful-illustration.md) - 372 thumbnails
 - [Beautiful Japan / 美麗日本](gallery/beautiful-japan.md) - 101 thumbnails
 - [Beautiful modeling clay / 美麗クレイ粘土](gallery/beautiful-modeling-clay.md) - 137 thumbnails
 - [Beautiful Silhouette Art & Glowing Line Art / 美麗影絵・発光ラインアート](gallery/beautiful-silhouette-art-and-glowing-line-art.md) - 141 thumbnails
@@ -20,7 +20,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Bonsai Wabisabi / 盆栽・侘寂](gallery/bonsai-wabisabi.md) - 50 thumbnails
 - [Character Sheet / キャラクターシート](gallery/character-sheet.md) - 200 thumbnails
 - [Detailed Character Sheet / 詳細版キャラクターシート](gallery/detailed-character-sheet.md) - 200 thumbnails
-- [Exquisite embroidery / 美麗刺繍](gallery/exquisite-embroidery.md) - 146 thumbnails
+- [Exquisite embroidery / 美麗刺繍](gallery/exquisite-embroidery.md) - 171 thumbnails
 - [Exquisite Paper Craft / 美麗紙工芸](gallery/exquisite-paper-craft.md) - 111 thumbnails
 - [Exquisite Plush Toy / 美麗ぬいぐるみ](gallery/exquisite-plush-toy.md) - 157 thumbnails
 - [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 148 thumbnails
@@ -29,7 +29,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Japanese women and the scenery / 日本女性と景色](gallery/japanese-women-and-the-scenery.md) - 295 thumbnails
 - [Nishikigoi Exquisite Art / 錦鯉 美麗アート](gallery/nishikigoi-exquisite-art.md) - 50 thumbnails
 - [Ogura Hyakunin Isshu / 小倉百人一首](gallery/ogura-hyakunin-isshu.md) - 101 thumbnails
-- [Others / その他](gallery/others.md) - 34 thumbnails
+- [Others / その他](gallery/others.md) - 64 thumbnails
 - [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 335 thumbnails
 - [Stunning Gothic Robot / 美麗ゴシックロボット](gallery/stunning-gothic-robot.md) - 226 thumbnails
 - [Wallpaper / 壁紙](gallery/wallpaper.md) - 100 thumbnails
