@@ -36,6 +36,8 @@ A logo-free commercial-use AI material collection for Flat illustration of a wom
   ![明治大正袴姿014 thumbnail](../../images/thumbnails/flat-illustration-of-a-woman-in-a-kimono/014-5992abd867.webp)
 - [明治大正袴姿015](../artworks/flat-illustration-of-a-woman-in-a-kimono/015-7a73ca89d3.html)
   ![明治大正袴姿015 thumbnail](../../images/thumbnails/flat-illustration-of-a-woman-in-a-kimono/015-7a73ca89d3.webp)
+- [明治大正袴姿016](../artworks/flat-illustration-of-a-woman-in-a-kimono/016-e161ce7479.html)
+  ![明治大正袴姿016 thumbnail](../../images/thumbnails/flat-illustration-of-a-woman-in-a-kimono/016-e161ce7479.webp)
 - [明治大正袴姿017](../artworks/flat-illustration-of-a-woman-in-a-kimono/017-f7559a7008.html)
   ![明治大正袴姿017 thumbnail](../../images/thumbnails/flat-illustration-of-a-woman-in-a-kimono/017-f7559a7008.webp)
 - [明治大正袴姿018](../artworks/flat-illustration-of-a-woman-in-a-kimono/018-7be94d5e5d.html)

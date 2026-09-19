@@ -6,7 +6,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 
 ## Gallery Index
 
-- [2.5D illustration of a woman in a kimono / 2.5D着物女性イラスト](gallery/2-5d-illustration-of-a-woman-in-a-kimono.md) - 131 thumbnails
+- [2.5D illustration of a woman in a kimono / 2.5D着物女性イラスト](gallery/2-5d-illustration-of-a-woman-in-a-kimono.md) - 181 thumbnails
 - [3D Watercolor – Noble Pastel / 立体水彩・ノーブルパステル](gallery/3d-watercolor-noble-pastel.md) - 289 thumbnails
 - [Bamboo Lanterns with Openwork Carving / 竹灯り・透かし彫りアート](gallery/bamboo-lanterns-with-openwork-carving.md) - 91 thumbnails
 - [Beautiful 2.5D art / 2.5D美麗アート](gallery/beautiful-2-5d-art.md) - 192 thumbnails
@@ -23,7 +23,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Exquisite embroidery / 美麗刺繍](gallery/exquisite-embroidery.md) - 171 thumbnails
 - [Exquisite Paper Craft / 美麗紙工芸](gallery/exquisite-paper-craft.md) - 136 thumbnails
 - [Exquisite Plush Toy / 美麗ぬいぐるみ](gallery/exquisite-plush-toy.md) - 188 thumbnails
-- [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 197 thumbnails
+- [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 198 thumbnails
 - [Japanese Scenery / 日本の景色](gallery/japanese-scenery.md) - 410 thumbnails
 - [Japanese-style illustration / 和風美麗イラスト](gallery/japanese-style-illustration.md) - 234 thumbnails
 - [Japanese women and the scenery / 日本女性と景色](gallery/japanese-women-and-the-scenery.md) - 345 thumbnails
