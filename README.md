@@ -31,8 +31,8 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Ogura Hyakunin Isshu / 小倉百人一首](docs/gallery/ogura-hyakunin-isshu.md) - 101 thumbnails
 - [Others / その他](docs/gallery/others.md) - 119 thumbnails
 - [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](docs/gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 362 thumbnails
-- [Stunning Gothic Robot / 美麗ゴシックロボット](docs/gallery/stunning-gothic-robot.md) - 226 thumbnails
-- [Wallpaper / 壁紙](docs/gallery/wallpaper.md) - 180 thumbnails
+- [Stunning Gothic Robot / 美麗ゴシックロボット](docs/gallery/stunning-gothic-robot.md) - 251 thumbnails
+- [Wallpaper / 壁紙](docs/gallery/wallpaper.md) - 230 thumbnails
 - [Cat Manga / 猫漫画](docs/gallery/cat-manga.md) - 109 thumbnails
 - [science manga / サイエンス漫画](docs/gallery/science-manga.md) - 36 thumbnails
 - [Youth romantic comedy manga / 青春ラブコメ漫画](docs/gallery/youth-romantic-comedy-manga.md) - 50 thumbnails
