@@ -20,10 +20,10 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Bonsai Wabisabi / 盆栽・侘寂](docs/gallery/bonsai-wabisabi.md) - 50 thumbnails
 - [Character Sheet / キャラクターシート](docs/gallery/character-sheet.md) - 200 thumbnails
 - [Detailed Character Sheet / 詳細版キャラクターシート](docs/gallery/detailed-character-sheet.md) - 200 thumbnails
-- [Exquisite embroidery / 美麗刺繍](docs/gallery/exquisite-embroidery.md) - 171 thumbnails
+- [Exquisite embroidery / 美麗刺繍](docs/gallery/exquisite-embroidery.md) - 199 thumbnails
 - [Exquisite Paper Craft / 美麗紙工芸](docs/gallery/exquisite-paper-craft.md) - 136 thumbnails
 - [Exquisite Plush Toy / 美麗ぬいぐるみ](docs/gallery/exquisite-plush-toy.md) - 188 thumbnails
-- [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](docs/gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 198 thumbnails
+- [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](docs/gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 248 thumbnails
 - [Japanese Scenery / 日本の景色](docs/gallery/japanese-scenery.md) - 410 thumbnails
 - [Japanese-style illustration / 和風美麗イラスト](docs/gallery/japanese-style-illustration.md) - 234 thumbnails
 - [Japanese women and the scenery / 日本女性と景色](docs/gallery/japanese-women-and-the-scenery.md) - 345 thumbnails
