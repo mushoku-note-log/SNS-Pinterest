@@ -25,12 +25,12 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Exquisite Plush Toy / 美麗ぬいぐるみ](gallery/exquisite-plush-toy.md) - 188 thumbnails
 - [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 248 thumbnails
 - [Japanese Scenery / 日本の景色](gallery/japanese-scenery.md) - 410 thumbnails
-- [Japanese-style illustration / 和風美麗イラスト](gallery/japanese-style-illustration.md) - 234 thumbnails
+- [Japanese-style illustration / 和風美麗イラスト](gallery/japanese-style-illustration.md) - 259 thumbnails
 - [Japanese women and the scenery / 日本女性と景色](gallery/japanese-women-and-the-scenery.md) - 345 thumbnails
 - [Nishikigoi Exquisite Art / 錦鯉 美麗アート](gallery/nishikigoi-exquisite-art.md) - 50 thumbnails
 - [Ogura Hyakunin Isshu / 小倉百人一首](gallery/ogura-hyakunin-isshu.md) - 101 thumbnails
 - [Others / その他](gallery/others.md) - 119 thumbnails
-- [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 362 thumbnails
+- [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 387 thumbnails
 - [Stunning Gothic Robot / 美麗ゴシックロボット](gallery/stunning-gothic-robot.md) - 251 thumbnails
 - [Wallpaper / 壁紙](gallery/wallpaper.md) - 230 thumbnails
 - [Cat Manga / 猫漫画](gallery/cat-manga.md) - 109 thumbnails
