@@ -15,8 +15,8 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Beautiful Japan / 美麗日本](docs/gallery/beautiful-japan.md) - 101 thumbnails
 - [Beautiful modeling clay / 美麗クレイ粘土](docs/gallery/beautiful-modeling-clay.md) - 162 thumbnails
 - [Beautiful Silhouette Art & Glowing Line Art / 美麗影絵・発光ラインアート](docs/gallery/beautiful-silhouette-art-and-glowing-line-art.md) - 166 thumbnails
-- [Beautiful Steam and Mist / 美麗 蒸気・煙霧](docs/gallery/beautiful-steam-and-mist.md) - 177 thumbnails
-- [Beautiful waterliquid / 美麗 水・液体](docs/gallery/beautiful-waterliquid.md) - 170 thumbnails
+- [Beautiful Steam and Mist / 美麗 蒸気・煙霧](docs/gallery/beautiful-steam-and-mist.md) - 202 thumbnails
+- [Beautiful waterliquid / 美麗 水・液体](docs/gallery/beautiful-waterliquid.md) - 195 thumbnails
 - [Bonsai Wabisabi / 盆栽・侘寂](docs/gallery/bonsai-wabisabi.md) - 50 thumbnails
 - [Character Sheet / キャラクターシート](docs/gallery/character-sheet.md) - 200 thumbnails
 - [Detailed Character Sheet / 詳細版キャラクターシート](docs/gallery/detailed-character-sheet.md) - 200 thumbnails
@@ -29,7 +29,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Japanese women and the scenery / 日本女性と景色](docs/gallery/japanese-women-and-the-scenery.md) - 345 thumbnails
 - [Nishikigoi Exquisite Art / 錦鯉 美麗アート](docs/gallery/nishikigoi-exquisite-art.md) - 50 thumbnails
 - [Ogura Hyakunin Isshu / 小倉百人一首](docs/gallery/ogura-hyakunin-isshu.md) - 101 thumbnails
-- [Others / その他](docs/gallery/others.md) - 144 thumbnails
+- [Others / その他](docs/gallery/others.md) - 174 thumbnails
 - [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](docs/gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 387 thumbnails
 - [Stunning Gothic Robot / 美麗ゴシックロボット](docs/gallery/stunning-gothic-robot.md) - 251 thumbnails
 - [Wallpaper / 壁紙](docs/gallery/wallpaper.md) - 230 thumbnails
