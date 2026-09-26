@@ -21,7 +21,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Character Sheet / キャラクターシート](gallery/character-sheet.md) - 200 thumbnails
 - [Detailed Character Sheet / 詳細版キャラクターシート](gallery/detailed-character-sheet.md) - 200 thumbnails
 - [Exquisite embroidery / 美麗刺繍](gallery/exquisite-embroidery.md) - 224 thumbnails
-- [Exquisite Paper Craft / 美麗紙工芸](gallery/exquisite-paper-craft.md) - 161 thumbnails
+- [Exquisite Paper Craft / 美麗紙工芸](gallery/exquisite-paper-craft.md) - 186 thumbnails
 - [Exquisite Plush Toy / 美麗ぬいぐるみ](gallery/exquisite-plush-toy.md) - 214 thumbnails
 - [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 248 thumbnails
 - [Japanese Scenery / 日本の景色](gallery/japanese-scenery.md) - 410 thumbnails
@@ -32,7 +32,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Others / その他](gallery/others.md) - 226 thumbnails
 - [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 414 thumbnails
 - [Stunning Gothic Robot / 美麗ゴシックロボット](gallery/stunning-gothic-robot.md) - 276 thumbnails
-- [Wallpaper / 壁紙](gallery/wallpaper.md) - 427 thumbnails
+- [Wallpaper / 壁紙](gallery/wallpaper.md) - 458 thumbnails
 - [Cat Manga / 猫漫画](gallery/cat-manga.md) - 109 thumbnails
 - [science manga / サイエンス漫画](gallery/science-manga.md) - 36 thumbnails
 - [Youth romantic comedy manga / 青春ラブコメ漫画](gallery/youth-romantic-comedy-manga.md) - 50 thumbnails
