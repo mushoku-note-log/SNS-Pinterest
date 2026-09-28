@@ -15,7 +15,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Beautiful Japan / 美麗日本](gallery/beautiful-japan.md) - 101 thumbnails
 - [Beautiful modeling clay / 美麗クレイ粘土](gallery/beautiful-modeling-clay.md) - 192 thumbnails
 - [Beautiful Silhouette Art & Glowing Line Art / 美麗影絵・発光ラインアート](gallery/beautiful-silhouette-art-and-glowing-line-art.md) - 191 thumbnails
-- [Beautiful Steam and Mist / 美麗 蒸気・煙霧](gallery/beautiful-steam-and-mist.md) - 202 thumbnails
+- [Beautiful Steam and Mist / 美麗 蒸気・煙霧](gallery/beautiful-steam-and-mist.md) - 227 thumbnails
 - [Beautiful waterliquid / 美麗 水・液体](gallery/beautiful-waterliquid.md) - 220 thumbnails
 - [Bonsai Wabisabi / 盆栽・侘寂](gallery/bonsai-wabisabi.md) - 50 thumbnails
 - [Character Sheet / キャラクターシート](gallery/character-sheet.md) - 200 thumbnails
