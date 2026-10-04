@@ -10,19 +10,19 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [3D Watercolor – Noble Pastel / 立体水彩・ノーブルパステル](gallery/3d-watercolor-noble-pastel.md) - 340 thumbnails
 - [Another World / 異世界](gallery/another-world.md) - 50 thumbnails
 - [Bamboo Lanterns with Openwork Carving / 竹灯り・透かし彫りアート](gallery/bamboo-lanterns-with-openwork-carving.md) - 91 thumbnails
-- [Beautiful 2.5D art / 2.5D美麗アート](gallery/beautiful-2-5d-art.md) - 242 thumbnails
+- [Beautiful 2.5D art / 2.5D美麗アート](gallery/beautiful-2-5d-art.md) - 272 thumbnails
 - [Beautiful female-type Gothic robot / 女型美麗ゴシックロボット](gallery/beautiful-female-type-gothic-robot.md) - 304 thumbnails
 - [Beautiful illustration / 美麗イラスト](gallery/beautiful-illustration.md) - 448 thumbnails
 - [Beautiful Japan / 美麗日本](gallery/beautiful-japan.md) - 101 thumbnails
 - [Beautiful modeling clay / 美麗クレイ粘土](gallery/beautiful-modeling-clay.md) - 218 thumbnails
 - [Beautiful Silhouette Art & Glowing Line Art / 美麗影絵・発光ラインアート](gallery/beautiful-silhouette-art-and-glowing-line-art.md) - 216 thumbnails
-- [Beautiful Steam and Mist / 美麗 蒸気・煙霧](gallery/beautiful-steam-and-mist.md) - 227 thumbnails
+- [Beautiful Steam and Mist / 美麗 蒸気・煙霧](gallery/beautiful-steam-and-mist.md) - 253 thumbnails
 - [Beautiful waterliquid / 美麗 水・液体](gallery/beautiful-waterliquid.md) - 245 thumbnails
 - [Bonsai Wabisabi / 盆栽・侘寂](gallery/bonsai-wabisabi.md) - 50 thumbnails
 - [Character Sheet / キャラクターシート](gallery/character-sheet.md) - 200 thumbnails
 - [Detailed Character Sheet / 詳細版キャラクターシート](gallery/detailed-character-sheet.md) - 200 thumbnails
 - [Eternal / 魔王エターナル](gallery/eternal.md) - 50 thumbnails
-- [Eternal Serenaia / エターナル・セレネイア](gallery/eternal-serenaia.md) - 50 thumbnails
+- [Eternal Serenaia / エターナル・セレネイア](gallery/eternal-serenaia.md) - 81 thumbnails
 - [Exquisite embroidery / 美麗刺繍](gallery/exquisite-embroidery.md) - 249 thumbnails
 - [Exquisite Paper Craft / 美麗紙工芸](gallery/exquisite-paper-craft.md) - 212 thumbnails
 - [Exquisite Plush Toy / 美麗ぬいぐるみ](gallery/exquisite-plush-toy.md) - 239 thumbnails
@@ -35,7 +35,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Others / その他](gallery/others.md) - 300 thumbnails
 - [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 439 thumbnails
 - [Stunning Gothic Robot / 美麗ゴシックロボット](gallery/stunning-gothic-robot.md) - 301 thumbnails
-- [Wallpaper / 壁紙](gallery/wallpaper.md) - 640 thumbnails
+- [Wallpaper / 壁紙](gallery/wallpaper.md) - 665 thumbnails
 - [Cat Manga / 猫漫画](gallery/cat-manga.md) - 109 thumbnails
 - [science manga / サイエンス漫画](gallery/science-manga.md) - 36 thumbnails
 - [Youth romantic comedy manga / 青春ラブコメ漫画](gallery/youth-romantic-comedy-manga.md) - 50 thumbnails
