@@ -15,17 +15,17 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Beautiful illustration / 美麗イラスト](docs/gallery/beautiful-illustration.md) - 448 thumbnails
 - [Beautiful Japan / 美麗日本](docs/gallery/beautiful-japan.md) - 101 thumbnails
 - [Beautiful modeling clay / 美麗クレイ粘土](docs/gallery/beautiful-modeling-clay.md) - 218 thumbnails
-- [Beautiful Silhouette Art & Glowing Line Art / 美麗影絵・発光ラインアート](docs/gallery/beautiful-silhouette-art-and-glowing-line-art.md) - 216 thumbnails
+- [Beautiful Silhouette Art & Glowing Line Art / 美麗影絵・発光ラインアート](docs/gallery/beautiful-silhouette-art-and-glowing-line-art.md) - 242 thumbnails
 - [Beautiful Steam and Mist / 美麗 蒸気・煙霧](docs/gallery/beautiful-steam-and-mist.md) - 253 thumbnails
 - [Beautiful waterliquid / 美麗 水・液体](docs/gallery/beautiful-waterliquid.md) - 245 thumbnails
 - [Bonsai Wabisabi / 盆栽・侘寂](docs/gallery/bonsai-wabisabi.md) - 50 thumbnails
 - [Character Sheet / キャラクターシート](docs/gallery/character-sheet.md) - 200 thumbnails
 - [Detailed Character Sheet / 詳細版キャラクターシート](docs/gallery/detailed-character-sheet.md) - 200 thumbnails
 - [Eternal / 魔王エターナル](docs/gallery/eternal.md) - 50 thumbnails
-- [Eternal Serenaia / エターナル・セレネイア](docs/gallery/eternal-serenaia.md) - 81 thumbnails
+- [Eternal Serenaia / エターナル・セレネイア](docs/gallery/eternal-serenaia.md) - 91 thumbnails
 - [Exquisite embroidery / 美麗刺繍](docs/gallery/exquisite-embroidery.md) - 249 thumbnails
 - [Exquisite Paper Craft / 美麗紙工芸](docs/gallery/exquisite-paper-craft.md) - 212 thumbnails
-- [Exquisite Plush Toy / 美麗ぬいぐるみ](docs/gallery/exquisite-plush-toy.md) - 239 thumbnails
+- [Exquisite Plush Toy / 美麗ぬいぐるみ](docs/gallery/exquisite-plush-toy.md) - 265 thumbnails
 - [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](docs/gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 248 thumbnails
 - [Japanese Scenery / 日本の景色](docs/gallery/japanese-scenery.md) - 410 thumbnails
 - [Japanese-style illustration / 和風美麗イラスト](docs/gallery/japanese-style-illustration.md) - 310 thumbnails
