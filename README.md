@@ -23,7 +23,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Detailed Character Sheet / 詳細版キャラクターシート](docs/gallery/detailed-character-sheet.md) - 200 thumbnails
 - [Eternal / 魔王エターナル](docs/gallery/eternal.md) - 50 thumbnails
 - [Eternal Serenaia / エターナル・セレネイア](docs/gallery/eternal-serenaia.md) - 100 thumbnails
-- [Exquisite embroidery / 美麗刺繍](docs/gallery/exquisite-embroidery.md) - 249 thumbnails
+- [Exquisite embroidery / 美麗刺繍](docs/gallery/exquisite-embroidery.md) - 274 thumbnails
 - [Exquisite Paper Craft / 美麗紙工芸](docs/gallery/exquisite-paper-craft.md) - 212 thumbnails
 - [Exquisite Plush Toy / 美麗ぬいぐるみ](docs/gallery/exquisite-plush-toy.md) - 265 thumbnails
 - [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](docs/gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 248 thumbnails
