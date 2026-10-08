@@ -8,7 +8,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 
 - [2.5D illustration of a woman in a kimono / 2.5D着物女性イラスト](gallery/2-5d-illustration-of-a-woman-in-a-kimono.md) - 181 thumbnails
 - [3D Watercolor – Noble Pastel / 立体水彩・ノーブルパステル](gallery/3d-watercolor-noble-pastel.md) - 365 thumbnails
-- [Another World / 異世界](gallery/another-world.md) - 50 thumbnails
+- [Another World / 異世界](gallery/another-world.md) - 60 thumbnails
 - [Bamboo Lanterns with Openwork Carving / 竹灯り・透かし彫りアート](gallery/bamboo-lanterns-with-openwork-carving.md) - 91 thumbnails
 - [Beautiful 2.5D art / 2.5D美麗アート](gallery/beautiful-2-5d-art.md) - 272 thumbnails
 - [Beautiful female-type Gothic robot / 女型美麗ゴシックロボット](gallery/beautiful-female-type-gothic-robot.md) - 330 thumbnails
@@ -22,7 +22,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Character Sheet / キャラクターシート](gallery/character-sheet.md) - 200 thumbnails
 - [Detailed Character Sheet / 詳細版キャラクターシート](gallery/detailed-character-sheet.md) - 200 thumbnails
 - [Eternal / 魔王エターナル](gallery/eternal.md) - 50 thumbnails
-- [Eternal Serenaia / エターナル・セレネイア](gallery/eternal-serenaia.md) - 91 thumbnails
+- [Eternal Serenaia / エターナル・セレネイア](gallery/eternal-serenaia.md) - 100 thumbnails
 - [Exquisite embroidery / 美麗刺繍](gallery/exquisite-embroidery.md) - 249 thumbnails
 - [Exquisite Paper Craft / 美麗紙工芸](gallery/exquisite-paper-craft.md) - 212 thumbnails
 - [Exquisite Plush Toy / 美麗ぬいぐるみ](gallery/exquisite-plush-toy.md) - 265 thumbnails
@@ -33,9 +33,9 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Nishikigoi Exquisite Art / 錦鯉 美麗アート](gallery/nishikigoi-exquisite-art.md) - 50 thumbnails
 - [Ogura Hyakunin Isshu / 小倉百人一首](gallery/ogura-hyakunin-isshu.md) - 101 thumbnails
 - [Others / その他](gallery/others.md) - 300 thumbnails
-- [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 439 thumbnails
+- [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 465 thumbnails
 - [Stunning Gothic Robot / 美麗ゴシックロボット](gallery/stunning-gothic-robot.md) - 326 thumbnails
-- [Wallpaper / 壁紙](gallery/wallpaper.md) - 740 thumbnails
+- [Wallpaper / 壁紙](gallery/wallpaper.md) - 765 thumbnails
 - [Cat Manga / 猫漫画](gallery/cat-manga.md) - 109 thumbnails
 - [science manga / サイエンス漫画](gallery/science-manga.md) - 36 thumbnails
 - [Youth romantic comedy manga / 青春ラブコメ漫画](gallery/youth-romantic-comedy-manga.md) - 50 thumbnails
