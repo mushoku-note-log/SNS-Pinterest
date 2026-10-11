@@ -10,7 +10,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [3D Watercolor – Noble Pastel / 立体水彩・ノーブルパステル](docs/gallery/3d-watercolor-noble-pastel.md) - 365 thumbnails
 - [Another World / 異世界](docs/gallery/another-world.md) - 60 thumbnails
 - [Bamboo Lanterns with Openwork Carving / 竹灯り・透かし彫りアート](docs/gallery/bamboo-lanterns-with-openwork-carving.md) - 91 thumbnails
-- [Beautiful 2.5D art / 2.5D美麗アート](docs/gallery/beautiful-2-5d-art.md) - 272 thumbnails
+- [Beautiful 2.5D art / 2.5D美麗アート](docs/gallery/beautiful-2-5d-art.md) - 297 thumbnails
 - [Beautiful female-type Gothic robot / 女型美麗ゴシックロボット](docs/gallery/beautiful-female-type-gothic-robot.md) - 330 thumbnails
 - [Beautiful illustration / 美麗イラスト](docs/gallery/beautiful-illustration.md) - 474 thumbnails
 - [Beautiful Japan / 美麗日本](docs/gallery/beautiful-japan.md) - 101 thumbnails
@@ -32,10 +32,10 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Japanese women and the scenery / 日本女性と景色](docs/gallery/japanese-women-and-the-scenery.md) - 345 thumbnails
 - [Nishikigoi Exquisite Art / 錦鯉 美麗アート](docs/gallery/nishikigoi-exquisite-art.md) - 50 thumbnails
 - [Ogura Hyakunin Isshu / 小倉百人一首](docs/gallery/ogura-hyakunin-isshu.md) - 101 thumbnails
-- [Others / その他](docs/gallery/others.md) - 300 thumbnails
+- [Others / その他](docs/gallery/others.md) - 326 thumbnails
 - [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](docs/gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 465 thumbnails
 - [Stunning Gothic Robot / 美麗ゴシックロボット](docs/gallery/stunning-gothic-robot.md) - 326 thumbnails
-- [Wallpaper / 壁紙](docs/gallery/wallpaper.md) - 833 thumbnails
+- [Wallpaper / 壁紙](docs/gallery/wallpaper.md) - 860 thumbnails
 - [Cat Manga / 猫漫画](docs/gallery/cat-manga.md) - 109 thumbnails
 - [science manga / サイエンス漫画](docs/gallery/science-manga.md) - 36 thumbnails
 - [Youth romantic comedy manga / 青春ラブコメ漫画](docs/gallery/youth-romantic-comedy-manga.md) - 50 thumbnails
