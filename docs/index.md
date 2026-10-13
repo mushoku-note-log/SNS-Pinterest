@@ -8,7 +8,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 
 - [2.5D illustration of a woman in a kimono / 2.5D着物女性イラスト](gallery/2-5d-illustration-of-a-woman-in-a-kimono.md) - 181 thumbnails
 - [3D Watercolor – Noble Pastel / 立体水彩・ノーブルパステル](gallery/3d-watercolor-noble-pastel.md) - 365 thumbnails
-- [Another World / 異世界](gallery/another-world.md) - 60 thumbnails
+- [Another World / 異世界](gallery/another-world.md) - 90 thumbnails
 - [Bamboo Lanterns with Openwork Carving / 竹灯り・透かし彫りアート](gallery/bamboo-lanterns-with-openwork-carving.md) - 91 thumbnails
 - [Beautiful 2.5D art / 2.5D美麗アート](gallery/beautiful-2-5d-art.md) - 297 thumbnails
 - [Beautiful female-type Gothic robot / 女型美麗ゴシックロボット](gallery/beautiful-female-type-gothic-robot.md) - 330 thumbnails
@@ -16,7 +16,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Beautiful Japan / 美麗日本](gallery/beautiful-japan.md) - 101 thumbnails
 - [Beautiful modeling clay / 美麗クレイ粘土](gallery/beautiful-modeling-clay.md) - 244 thumbnails
 - [Beautiful Silhouette Art & Glowing Line Art / 美麗影絵・発光ラインアート](gallery/beautiful-silhouette-art-and-glowing-line-art.md) - 242 thumbnails
-- [Beautiful Steam and Mist / 美麗 蒸気・煙霧](gallery/beautiful-steam-and-mist.md) - 253 thumbnails
+- [Beautiful Steam and Mist / 美麗 蒸気・煙霧](gallery/beautiful-steam-and-mist.md) - 279 thumbnails
 - [Beautiful waterliquid / 美麗 水・液体](gallery/beautiful-waterliquid.md) - 270 thumbnails
 - [Bonsai Wabisabi / 盆栽・侘寂](gallery/bonsai-wabisabi.md) - 50 thumbnails
 - [Character Sheet / キャラクターシート](gallery/character-sheet.md) - 200 thumbnails
@@ -35,7 +35,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Others / その他](gallery/others.md) - 365 thumbnails
 - [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 465 thumbnails
 - [Stunning Gothic Robot / 美麗ゴシックロボット](gallery/stunning-gothic-robot.md) - 352 thumbnails
-- [Wallpaper / 壁紙](gallery/wallpaper.md) - 860 thumbnails
+- [Wallpaper / 壁紙](gallery/wallpaper.md) - 910 thumbnails
 - [Cat Manga / 猫漫画](gallery/cat-manga.md) - 109 thumbnails
 - [science manga / サイエンス漫画](gallery/science-manga.md) - 36 thumbnails
 - [Youth romantic comedy manga / 青春ラブコメ漫画](gallery/youth-romantic-comedy-manga.md) - 50 thumbnails
