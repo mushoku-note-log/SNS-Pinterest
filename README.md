@@ -7,15 +7,15 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 ## Gallery Index
 
 - [2.5D illustration of a woman in a kimono / 2.5D着物女性イラスト](docs/gallery/2-5d-illustration-of-a-woman-in-a-kimono.md) - 181 thumbnails
-- [3D Watercolor – Noble Pastel / 立体水彩・ノーブルパステル](docs/gallery/3d-watercolor-noble-pastel.md) - 365 thumbnails
-- [Another World / 異世界](docs/gallery/another-world.md) - 90 thumbnails
+- [3D Watercolor – Noble Pastel / 立体水彩・ノーブルパステル](docs/gallery/3d-watercolor-noble-pastel.md) - 390 thumbnails
+- [Another World / 異世界](docs/gallery/another-world.md) - 100 thumbnails
 - [Bamboo Lanterns with Openwork Carving / 竹灯り・透かし彫りアート](docs/gallery/bamboo-lanterns-with-openwork-carving.md) - 91 thumbnails
 - [Beautiful 2.5D art / 2.5D美麗アート](docs/gallery/beautiful-2-5d-art.md) - 297 thumbnails
-- [Beautiful female-type Gothic robot / 女型美麗ゴシックロボット](docs/gallery/beautiful-female-type-gothic-robot.md) - 330 thumbnails
+- [Beautiful female-type Gothic robot / 女型美麗ゴシックロボット](docs/gallery/beautiful-female-type-gothic-robot.md) - 355 thumbnails
 - [Beautiful illustration / 美麗イラスト](docs/gallery/beautiful-illustration.md) - 474 thumbnails
 - [Beautiful Japan / 美麗日本](docs/gallery/beautiful-japan.md) - 101 thumbnails
-- [Beautiful modeling clay / 美麗クレイ粘土](docs/gallery/beautiful-modeling-clay.md) - 244 thumbnails
-- [Beautiful Silhouette Art & Glowing Line Art / 美麗影絵・発光ラインアート](docs/gallery/beautiful-silhouette-art-and-glowing-line-art.md) - 242 thumbnails
+- [Beautiful modeling clay / 美麗クレイ粘土](docs/gallery/beautiful-modeling-clay.md) - 269 thumbnails
+- [Beautiful Silhouette Art & Glowing Line Art / 美麗影絵・発光ラインアート](docs/gallery/beautiful-silhouette-art-and-glowing-line-art.md) - 267 thumbnails
 - [Beautiful Steam and Mist / 美麗 蒸気・煙霧](docs/gallery/beautiful-steam-and-mist.md) - 279 thumbnails
 - [Beautiful waterliquid / 美麗 水・液体](docs/gallery/beautiful-waterliquid.md) - 270 thumbnails
 - [Bonsai Wabisabi / 盆栽・侘寂](docs/gallery/bonsai-wabisabi.md) - 50 thumbnails
@@ -23,7 +23,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Detailed Character Sheet / 詳細版キャラクターシート](docs/gallery/detailed-character-sheet.md) - 200 thumbnails
 - [Eternal / 魔王エターナル](docs/gallery/eternal.md) - 60 thumbnails
 - [Eternal Serenaia / エターナル・セレネイア](docs/gallery/eternal-serenaia.md) - 100 thumbnails
-- [Exquisite embroidery / 美麗刺繍](docs/gallery/exquisite-embroidery.md) - 274 thumbnails
+- [Exquisite embroidery / 美麗刺繍](docs/gallery/exquisite-embroidery.md) - 303 thumbnails
 - [Exquisite Paper Craft / 美麗紙工芸](docs/gallery/exquisite-paper-craft.md) - 237 thumbnails
 - [Exquisite Plush Toy / 美麗ぬいぐるみ](docs/gallery/exquisite-plush-toy.md) - 290 thumbnails
 - [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](docs/gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 248 thumbnails
@@ -33,9 +33,9 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Nishikigoi Exquisite Art / 錦鯉 美麗アート](docs/gallery/nishikigoi-exquisite-art.md) - 50 thumbnails
 - [Ogura Hyakunin Isshu / 小倉百人一首](docs/gallery/ogura-hyakunin-isshu.md) - 101 thumbnails
 - [Others / その他](docs/gallery/others.md) - 365 thumbnails
-- [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](docs/gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 465 thumbnails
+- [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](docs/gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 490 thumbnails
 - [Stunning Gothic Robot / 美麗ゴシックロボット](docs/gallery/stunning-gothic-robot.md) - 352 thumbnails
-- [Wallpaper / 壁紙](docs/gallery/wallpaper.md) - 935 thumbnails
+- [Wallpaper / 壁紙](docs/gallery/wallpaper.md) - 986 thumbnails
 - [Cat Manga / 猫漫画](docs/gallery/cat-manga.md) - 109 thumbnails
 - [science manga / サイエンス漫画](docs/gallery/science-manga.md) - 36 thumbnails
 - [Youth romantic comedy manga / 青春ラブコメ漫画](docs/gallery/youth-romantic-comedy-manga.md) - 50 thumbnails
