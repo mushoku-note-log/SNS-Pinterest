@@ -12,7 +12,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Bamboo Lanterns with Openwork Carving / 竹灯り・透かし彫りアート](gallery/bamboo-lanterns-with-openwork-carving.md) - 91 thumbnails
 - [Beautiful 2.5D art / 2.5D美麗アート](gallery/beautiful-2-5d-art.md) - 297 thumbnails
 - [Beautiful female-type Gothic robot / 女型美麗ゴシックロボット](gallery/beautiful-female-type-gothic-robot.md) - 355 thumbnails
-- [Beautiful illustration / 美麗イラスト](gallery/beautiful-illustration.md) - 474 thumbnails
+- [Beautiful illustration / 美麗イラスト](gallery/beautiful-illustration.md) - 499 thumbnails
 - [Beautiful Japan / 美麗日本](gallery/beautiful-japan.md) - 101 thumbnails
 - [Beautiful modeling clay / 美麗クレイ粘土](gallery/beautiful-modeling-clay.md) - 269 thumbnails
 - [Beautiful Silhouette Art & Glowing Line Art / 美麗影絵・発光ラインアート](gallery/beautiful-silhouette-art-and-glowing-line-art.md) - 267 thumbnails
@@ -35,7 +35,7 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Others / その他](gallery/others.md) - 365 thumbnails
 - [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 490 thumbnails
 - [Stunning Gothic Robot / 美麗ゴシックロボット](gallery/stunning-gothic-robot.md) - 352 thumbnails
-- [Wallpaper / 壁紙](gallery/wallpaper.md) - 986 thumbnails
+- [Wallpaper / 壁紙](gallery/wallpaper.md) - 1017 thumbnails
 - [Cat Manga / 猫漫画](gallery/cat-manga.md) - 109 thumbnails
 - [science manga / サイエンス漫画](gallery/science-manga.md) - 36 thumbnails
 - [Youth romantic comedy manga / 青春ラブコメ漫画](gallery/youth-romantic-comedy-manga.md) - 50 thumbnails
