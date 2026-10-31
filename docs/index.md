@@ -21,11 +21,11 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Bonsai Wabisabi / 盆栽・侘寂](gallery/bonsai-wabisabi.md) - 50 thumbnails
 - [Character Sheet / キャラクターシート](gallery/character-sheet.md) - 200 thumbnails
 - [Detailed Character Sheet / 詳細版キャラクターシート](gallery/detailed-character-sheet.md) - 200 thumbnails
-- [Eternal / 魔王エターナル](gallery/eternal.md) - 60 thumbnails
+- [Eternal / 魔王エターナル](gallery/eternal.md) - 100 thumbnails
 - [Eternal Serenaia / エターナル・セレネイア](gallery/eternal-serenaia.md) - 130 thumbnails
 - [Exquisite embroidery / 美麗刺繍](gallery/exquisite-embroidery.md) - 303 thumbnails
 - [Exquisite Paper Craft / 美麗紙工芸](gallery/exquisite-paper-craft.md) - 262 thumbnails
-- [Exquisite Plush Toy / 美麗ぬいぐるみ](gallery/exquisite-plush-toy.md) - 290 thumbnails
+- [Exquisite Plush Toy / 美麗ぬいぐるみ](gallery/exquisite-plush-toy.md) - 315 thumbnails
 - [Flat illustration of a woman in a kimono / 着物女性フラットイラスト](gallery/flat-illustration-of-a-woman-in-a-kimono.md) - 248 thumbnails
 - [Japanese Scenery / 日本の景色](gallery/japanese-scenery.md) - 410 thumbnails
 - [Japanese-style illustration / 和風美麗イラスト](gallery/japanese-style-illustration.md) - 360 thumbnails
@@ -33,9 +33,9 @@ Search-ready AI art thumbnail archive for AICo Creation Lab. This repository pub
 - [Nishikigoi Exquisite Art / 錦鯉 美麗アート](gallery/nishikigoi-exquisite-art.md) - 50 thumbnails
 - [Ogura Hyakunin Isshu / 小倉百人一首](gallery/ogura-hyakunin-isshu.md) - 101 thumbnails
 - [Others / その他](gallery/others.md) - 365 thumbnails
-- [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 490 thumbnails
+- [Stunning 3D figure of a beautiful girl / 美麗3D美少女フィギュア](gallery/stunning-3d-figure-of-a-beautiful-girl.md) - 518 thumbnails
 - [Stunning Gothic Robot / 美麗ゴシックロボット](gallery/stunning-gothic-robot.md) - 352 thumbnails
-- [Wallpaper / 壁紙](gallery/wallpaper.md) - 1095 thumbnails
+- [Wallpaper / 壁紙](gallery/wallpaper.md) - 1121 thumbnails
 - [Cat Manga / 猫漫画](gallery/cat-manga.md) - 109 thumbnails
 - [science manga / サイエンス漫画](gallery/science-manga.md) - 36 thumbnails
 - [Youth romantic comedy manga / 青春ラブコメ漫画](gallery/youth-romantic-comedy-manga.md) - 50 thumbnails
